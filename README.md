@@ -85,6 +85,8 @@ A complete MERN-based quiz platform with authentication, scoring, and result tra
 
 ## 📫 Connect With Me
 
-* LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanshika%20Devi-blue?logo=linkedin)](https://www.linkedin.com/in/vanshika-devi-672859338)
-* Email: [pundirvanshika249@gmail.com](mailto:pundirvanshika249@gmail.com)
-* GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Vanshika--devi-black?logo=github)](https://github.com/Vanshika-devi)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanshika%20Devi-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-devi-672859338)
+
+- Email: [![Gmail](https://img.shields.io/badge/Gmail-pundirvanshika249%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pundirvanshika249@gmail.com)
+
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Vanshika--devi-181717?logo=github&logoColor=white)](https://github.com/Vanshika-devi)
