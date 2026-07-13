@@ -20,7 +20,7 @@ Java • Python • JavaScript
 
 ### Backend
 
-Spring Boot • FastAPI • Node.js • Express.js
+FastAPI • Node.js • Express.js • Nest.js
 
 ### Frontend
 
