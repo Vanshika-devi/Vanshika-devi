@@ -1,12 +1,14 @@
 # Hi there 👋, I'm Vanshika Devi
 
+### Full Stack Developer | AI Engineer | Building LLM and RAG Applications
+
 ## 🚀 About Me
 
 * 🎓 B.Tech CSIT Student at Dronacharya College of Engineering
-* 💻 Aspiring Full Stack and AI Engineer
-* 🤖 Passionate about AI, LLMs, RAG Systems, and MLOps
+* 💻 Full Stack Developer with a strong interest in AI Engineering
+* 🤖 Passionate about LLMs, RAG Systems, MLOps, and Generative AI
 * 📈 Solved 50+ DSA problems and actively participating in coding contests
-* 🎯 Goal: Build production-grade AI systems and scalable software products
+* 🎯 Building production-grade AI systems and scalable software products
 
 ---
 
@@ -40,19 +42,27 @@ Git • GitHub • Docker • Postman • VS Code
 
 ## 🌟 Featured Projects
 
+### 🎙️ AI Voice Ordering Agent (NexTech)
+
+Built an AI-powered voice ordering assistant capable of understanding customer requirements, answering questions using company knowledge through RAG, collecting order details, and managing customer interactions using conversational AI technologies.
+
+**Tech Stack:** FastAPI, React.js, MySQL, LLMs, RAG, Speech-to-Text, Text-to-Speech, Twilio, ElevenLabs
+
+---
+
 ### 📄 AI Resume Analyzer
 
 An AI-powered platform that analyzes resumes, provides feedback, and helps improve ATS compatibility.
 
-**Tech:** React, FastAPI, Python, Hugging Face, LangChain, Ollama
+**Tech Stack:** React, FastAPI, Python, Hugging Face, LangChain, Ollama
 
 ---
 
 ### 📚 Professional RAG PDF Chatbot
 
-A production-style Retrieval-Augmented Generation chatbot capable of answering questions from uploaded PDFs using vector search.
+A production-grade Retrieval-Augmented Generation chatbot capable of answering questions from uploaded PDFs using vector search and semantic retrieval.
 
-**Tech:** FastAPI, React, LangChain, ChromaDB, Ollama, OCR
+**Tech Stack:** FastAPI, React, LangChain, ChromaDB, Ollama, OCR
 
 ---
 
@@ -60,19 +70,13 @@ A production-style Retrieval-Augmented Generation chatbot capable of answering q
 
 A complete MERN-based quiz platform with authentication, scoring, and result tracking.
 
-**Tech:** MongoDB, Express.js, React, Node.js
+**Tech Stack:** MongoDB, Express.js, React, Node.js
 
 ---
 
-### 🎙️ AI Voice Ordering Agent (NexTech)
-
-Built an AI-powered voice ordering assistant capable of understanding customer requirements, answering questions using company knowledge, collecting order details, and managing customer interactions using conversational AI technologies.
-
-**Tech:** FastAPI, MySQL, LLMs, RAG, Speech-to-Text, Text-to-Speech, React js ,Twllio ,ElevenLabs
-
 ## 🌱 Currently Learning
 
-* Full Stack Development 
+* Full Stack Development
 * LLM Engineering
 * MLOps
 * System Design
@@ -81,6 +85,6 @@ Built an AI-powered voice ordering assistant capable of understanding customer r
 
 ## 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn profile here
-* Email: Add your professional email here
-* GitHub Username: Vanshika-devi
+* LinkedIn: Vanshika Devi
+* Email: [pundirvanshika249@gmail.com](mailto:pundirvanshika249@gmail.com)
+* GitHub: Vanshika-devi
