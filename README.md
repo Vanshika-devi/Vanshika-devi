@@ -67,7 +67,7 @@ A production-grade Retrieval-Augmented Generation chatbot capable of answering q
 
 ### 📝 Full Stack Quiz Application
 
-A complete MERN-based quiz platform with authentication, scoring, and result tracking.
+Complete MERN application featuring authentication, quiz management, scoring, and result tracking.
 
 **Tech Stack:** MongoDB, Express.js, React, Node.js
 
