@@ -7,7 +7,7 @@
 * 🎓 B.Tech CSIT Student at Dronacharya College of Engineering
 * 💻 Full Stack Developer with a strong interest in AI Engineering
 * 🤖 Passionate about LLMs, RAG Systems, MLOps, and Generative AI
-* 📈 Solved 50+ DSA problems and actively participating in coding contests
+* 📈 Solved 60+ DSA problems and actively participating in coding contests
 * 🎯 Building production-grade AI systems and scalable software products
 
 ---
