@@ -1,83 +1,89 @@
-# Hi 👋 I'm Vanshika Devi
+# Hi there 👋, I'm Vanshika Devi
 
-### AI Engineer • Full Stack Developer
-
-I build production-ready AI applications powered by **LLMs, RAG, Voice AI, and FastAPI** while combining them with modern full-stack development.
-
----
+### Full Stack Developer | AI Engineer | Building LLM and RAG Applications
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSIT @ Dronacharya College of Engineering
-- 🤖 Building AI applications with LLMs, RAG, and Voice AI
-- 💻 Developing scalable full-stack software using React & FastAPI
-- 🌱 Currently exploring AI Agents, MLOps, and System Design
+* 🎓 B.Tech CSIT Student at Dronacharya College of Engineering
+* 💻 Full Stack Developer with a strong interest in AI Engineering
+* 🤖 Passionate about LLMs, RAG Systems, MLOps, and Generative AI
+* 📈 Solved 50+ DSA problems and actively participating in coding contests
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Languages
 
-Python • Java • JavaScript
+Java • Python • JavaScript
 
-**AI**
+### Backend
 
-LLMs • RAG • LangChain • Hugging Face • Ollama
+FastAPI • Node.js • Express.js • Nest.js
 
-**Backend**
+### Frontend
 
-FastAPI • Node.js • Express.js
+React • Tailwind CSS • Vite
 
-**Frontend**
+### AI / ML
 
-React • Tailwind CSS
+Scikit-Learn • TensorFlow • PyTorch • Hugging Face • LangChain • Ollama • ChromaDB
 
-**Database**
+### Databases
 
-MySQL • PostgreSQL • MongoDB
+MongoDB • MySQL • PostgreSQL • Supabase
 
-**Tools**
+### Tools & Platforms
 
-Git • Docker • Postman
+Git • GitHub • Postman • VS Code
 
 ---
 
-# ⭐ Featured Projects
+## 🌟 Featured Projects
 
-## 🎙 AI Voice Ordering Agent
+### 🎙️ AI Voice Ordering Agent (NexTech)
 
 Production-ready conversational AI system capable of answering customer queries using RAG, handling voice conversations, collecting order information, and automating customer interactions.
 
-**Tech:** FastAPI • React • Twilio • ElevenLabs • MySQL • LLMs • RAG
+**Tech Stack:** FastAPI, React.js, MySQL, LLMs, RAG, Speech-to-Text, Text-to-Speech, Twilio, ElevenLabs
 
 ---
 
-## 📚 Professional RAG PDF Chatbot
+### 📄 AI Resume Analyzer
 
-Retrieval-Augmented Generation application that answers questions from uploaded PDFs using semantic search and vector databases.
+An AI-powered platform that analyzes resumes, provides feedback, and helps improve ATS compatibility.
 
-**Tech:** FastAPI • LangChain • ChromaDB • Ollama • React
-
----
-
-## 📄 AI Resume Analyzer
-
-AI-powered resume evaluation platform that provides ATS analysis, resume feedback, and improvement suggestions.
-
-**Tech:** React • FastAPI • Hugging Face • LangChain
+**Tech Stack:** React, FastAPI, Python, Hugging Face, LangChain, Ollama
 
 ---
 
-## 📝 Full Stack Quiz Platform
+### 📚 Professional RAG PDF Chatbot
 
-Complete MERN application featuring authentication, quiz management, scoring, and result tracking.
+A production-grade Retrieval-Augmented Generation chatbot capable of answering questions from uploaded PDFs using vector search and semantic retrieval.
 
-**Tech:** MongoDB • Express • React • Node.js
+**Tech Stack:** FastAPI, React, LangChain, ChromaDB, Ollama, OCR
 
 ---
 
-## 📫 Connect
+### 📝 Full Stack Quiz Application
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vanshika-devi-672859338
-- 📧 Email: pundirvanshika249@gmail.com
+A complete MERN-based quiz platform with authentication, scoring, and result tracking.
+
+**Tech Stack:** MongoDB, Express.js, React, Node.js
+
+---
+
+## 🌱 Currently Learning
+
+* Full Stack Development
+* LLM Engineering
+* MLOps
+* System Design
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanshika%20Devi-blue?logo=linkedin)](https://www.linkedin.com/in/vanshika-devi-672859338)
+* Email: [pundirvanshika249@gmail.com](mailto:pundirvanshika249@gmail.com)
+* GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Vanshika--devi-black?logo=github)](https://github.com/Vanshika-devi)
