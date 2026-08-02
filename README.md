@@ -27,7 +27,7 @@ React • Tailwind CSS • Vite
 
 ### AI / ML
 
-Scikit-Learn • TensorFlow • PyTorch • Hugging Face • LangChain • Ollama • ChromaDB
+Scikit-Learn • PyTorch • Hugging Face • LangChain • Ollama • ChromaDB
 
 ### Databases
 
