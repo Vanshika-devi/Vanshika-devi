@@ -1,127 +1,147 @@
-# Hi there 👋, I'm Vanshika Devi
+<div align="center">
 
-### Software Engineer • Full Stack Developer • AI Builder
+# Hi 👋, I'm Vanshika Devi
 
-I'm a Computer Science student passionate about building scalable software and intelligent AI-powered applications.
+### Software Engineer • Full Stack Developer • AI Engineer
 
-I enjoy developing backend systems, full-stack web applications, and production-ready AI products using LLMs, Retrieval-Augmented Generation (RAG), and modern web technologies.
+Building scalable software, intelligent AI systems, and production-ready applications.
 
-Currently building real-world AI systems while continuously improving my software engineering and problem-solving skills.
+<p align="center">
+<a href="https://github.com/Vanshika-devi">
+<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
 
----
+<a href="https://github.com/Vanshika-devi?tab=followers">
+<img src="https://img.shields.io/github/followers/Vanshika-devi?label=Followers&style=social"/>
+</a>
 
-## 🚀 What I'm Building
+</p>
 
-- 🎙️ Production-ready AI Voice Calling Platform
-- 🤖 LLM & RAG Applications
-- ⚡ Scalable Backend Systems with FastAPI
-- 🌐 Full Stack Web Applications
-- 📚 Exploring MLOps & Distributed Systems
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-
-### AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+</div>
 
 ---
 
-# ⭐ Featured Projects
+# 👨‍💻 About Me
 
-## 🎙️ AI Voice Calling Platform
+I'm a Computer Science student passionate about solving real-world problems through software engineering and artificial intelligence.
 
-A production-grade conversational AI platform capable of handling real-time customer conversations using speech recognition, LLMs, and Retrieval-Augmented Generation.
+I enjoy designing scalable backend systems, building full-stack applications, and developing intelligent AI products powered by Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
 
-**Highlights**
+Currently working on production-grade AI systems while continuously strengthening my software engineering fundamentals.
 
-- Real-time voice conversations
+---
+
+# 🚀 What I'm Building
+
+### 🎙 AI Voice Calling Platform
+
+Production-ready conversational AI capable of handling real-time customer conversations.
+
+**Features**
+
+- Voice AI
 - Twilio Media Streams
-- Streaming Speech-to-Text & Text-to-Speech
+- Streaming STT/TTS
+- Retrieval-Augmented Generation
+- Campaign Management
+- Lead Management
 - FastAPI Backend
 - PostgreSQL
-- RAG Knowledge Base
-- Campaign & Lead Management
-
-**Tech**
-
-`Python` `FastAPI` `Twilio` `ElevenLabs` `WebSockets` `PostgreSQL`
 
 ---
 
-## 📄 AI Resume Analyzer
+### 🤖 AI Resume Analyzer
 
-An intelligent resume analysis platform combining Machine Learning and LLMs to provide ATS analysis and resume improvement suggestions.
+An intelligent resume analysis platform combining Machine Learning and LLMs.
 
 **Highlights**
 
-- ML model with **82% prediction accuracy**
-- Resume parsing
-- ATS compatibility analysis
-- AI-powered recommendations
-
-**Tech**
-
-`React` `FastAPI` `Scikit-Learn` `Hugging Face` `LangChain`
+- ML model achieving **82% prediction accuracy**
+- ATS Score Prediction
+- Resume Classification
+- AI Resume Suggestions
 
 ---
 
-## 📚 Professional RAG PDF Chatbot
+### 📚 Professional RAG PDF Chatbot
 
-A Retrieval-Augmented Generation chatbot capable of answering questions directly from uploaded PDF documents using semantic search.
+Semantic document search and conversational AI over PDFs.
 
-**Highlights**
+Supports
 
+- OCR
 - Vector Search
-- OCR Support
-- Semantic Retrieval
 - Multi-document Chat
-
-**Tech**
-
-`FastAPI` `React` `LangChain` `ChromaDB` `Ollama`
+- ChromaDB
+- LangChain
 
 ---
 
-## 🌱 Currently Learning
+# 💻 Tech Stack
 
-- Distributed Systems
-- MLOps
-- Kubernetes
-- System Design
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+
+</p>
+
+## AI / Machine Learning
+
+- PyTorch
+- Scikit-Learn
+- Hugging Face
+- LangChain
+- ChromaDB
+- Ollama
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase"/>
+
+</p>
+
+## Dev Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
 - AI Agents
-- Large Language Models
+- Distributed Systems
+- Kubernetes
+- MLOps
+- System Design
+- High Performance Backend Engineering
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -131,16 +151,45 @@ A Retrieval-Augmented Generation chatbot capable of answering questions directly
 
 </p>
 
----
+<p align="center">
 
-## 📫 Let's Connect
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika-devi&theme=tokyonight"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanshika%20Devi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanshika-devi-672859338)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Vanshika--devi-black?style=for-the-badge&logo=github)](https://github.com/Vanshika-devi)
-
-📧 **pundirvanshika249@gmail.com**
+</p>
 
 ---
 
-> *"I enjoy building software that combines scalable engineering with AI to solve real-world problems."*
+# 🏆 Current Goals
+
+- Build enterprise-grade AI products
+- Master Backend Engineering
+- Become an expert in LLM Engineering
+- Contribute to Open Source
+- Solve 500+ DSA problems
+- Crack top product companies
+
+---
+
+# 📫 Let's Connect
+
+<p>
+
+<a href="https://www.linkedin.com/in/vanshika-devi-672859338/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:pundirvanshika249@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Great software is built by engineers who never stop learning."
+
+⭐ If you like my work, consider starring my repositories.
+
+</div>
