@@ -51,7 +51,8 @@ Working on a production-grade AI Voice Calling Platform using FastAPI, PostgreSQ
 Focused on building scalable backend services, real-time voice pipelines, and AI-powered customer automation.
 
 ---
-# 🔥 Currently Building
+
+## 🚀 Featured Projects
 
 ## 🎙 AI Voice Calling Platform
 
