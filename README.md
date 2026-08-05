@@ -22,7 +22,7 @@ Currently exploring Large Language Models, Retrieval-Augmented Generation (RAG),
 
 </div>
 
-...
+---
 
 ## 🚀 About Me
 
@@ -38,7 +38,7 @@ I'm particularly interested in:
 - Large Language Models
 - MLOps
 
-...
+---
 
 # 🔥 Currently Building
 
@@ -58,7 +58,7 @@ A production-ready conversational AI platform capable of handling real-time cust
 - Twilio Integration
 - ElevenLabs
 
-...
+---
 
 ## 📄 AI Resume Analyzer
 
@@ -72,7 +72,7 @@ An AI-powered resume analysis platform.
 - Resume Classification
 - Full Stack Architecture
 
-...
+---
 
 ## 📚 Professional RAG PDF Chatbot
 
@@ -86,7 +86,7 @@ Features include
 - Multi-document Chat
 - Source Referencing
 
-...
+---
 
 # 💻 Tech Stack
 
@@ -96,7 +96,7 @@ Features include
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-...
+---
 
 ## Backend
 
@@ -105,7 +105,7 @@ Features include
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-...
+---
 
 ## Frontend
 
@@ -113,7 +113,7 @@ Features include
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-...
+---
 
 ## AI / Machine Learning
 
@@ -124,7 +124,7 @@ Features include
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
-...
+---
 
 ## Databases
 
@@ -133,7 +133,7 @@ Features include
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-...
+---
 
 ## Tools
 
@@ -143,7 +143,7 @@ Features include
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-...
+---
 
 # 📊 GitHub Stats
 
@@ -155,7 +155,7 @@ Features include
 
 </p>
 
-...
+---
 
 # 🌱 Currently Learning
 
@@ -166,7 +166,7 @@ Features include
 - Kubernetes
 - System Design
 
-...
+---
 
 # 🤝 Let's Connect
 
@@ -182,7 +182,7 @@ Features include
 
 </p>
 
-...
+---
 
 <div align="center">
 
