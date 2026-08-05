@@ -146,13 +146,13 @@ Features include
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Vanshika-devi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vanshika-devi&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-devi&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
