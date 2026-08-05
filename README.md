@@ -144,7 +144,7 @@ Features include
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-devi&theme=tokyo-night&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Vanshika-devi&theme=tokyonight&hide_border=true"/>
 
@@ -152,7 +152,7 @@ Features include
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-devi&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -171,8 +171,17 @@ Features include
 
 # 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vanshika-devi-672859338
-- 📧 Email: pundirvanshika249@gmail.com
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vanshika-devi-672859338">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pundirvanshika249@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
