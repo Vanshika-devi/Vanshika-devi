@@ -62,6 +62,7 @@ ML-powered resume analysis platform with an 82% accuracy model and ATS recommend
 
 ### 📚 RAG PDF Chatbot
 Semantic document Q&A using LangChain, ChromaDB, and FastAPI.
+
 ---
 
 # 💻 Tech Stack
