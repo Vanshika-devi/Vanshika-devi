@@ -150,12 +150,6 @@ Features include
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # 🌱 Currently Learning
