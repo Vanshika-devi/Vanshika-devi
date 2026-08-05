@@ -24,14 +24,19 @@ Currently exploring Large Language Models, Retrieval-Augmented Generation (RAG),
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Passionate about Backend Engineering and Full Stack Development
-- 🤖 Building AI-powered applications using LLMs and RAG
-- ⚙️ Love designing scalable APIs and production-ready systems
-- 🌱 Currently learning Distributed Systems, MLOps and System Design
-- 🎯 Goal: Build products used by millions of users
+I'm a Computer Science student passionate about building scalable software and AI-powered applications.
+
+Over the past year, I've worked on full-stack applications, backend systems, and intelligent AI products ranging from Voice AI platforms to Retrieval-Augmented Generation (RAG) systems.
+
+I'm particularly interested in:
+
+- Backend Engineering
+- AI Engineering
+- Distributed Systems
+- Large Language Models
+- MLOps
 
 ---
 
