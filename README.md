@@ -144,15 +144,15 @@ Features include
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vanshika-devi&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-devi&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=Vanshika-devi&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Vanshika-devi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
