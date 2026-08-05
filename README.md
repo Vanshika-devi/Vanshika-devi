@@ -1,18 +1,21 @@
 <div align="center">
 
-# Hi 👋, I'm Vanshika Devi
+# Hi there 👋, I'm Vanshika Devi
 
-### Software Engineer • Full Stack Developer • AI Engineer
+### Full Stack Developer | AI Engineer | Building LLM and RAG Applications
 
-Building scalable software, intelligent AI systems, and production-ready applications.
+<p>
+I'm passionate about building scalable software and AI-powered applications that solve real-world problems.
+Currently exploring Large Language Models, Retrieval-Augmented Generation (RAG), Backend Engineering, and MLOps.
+</p>
 
-<p align="center">
+<p>
 <a href="https://github.com/Vanshika-devi">
 <img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=Profile%20Views&color=0e75b6&style=flat"/>
 </a>
 
 <a href="https://github.com/Vanshika-devi?tab=followers">
-<img src="https://img.shields.io/github/followers/Vanshika-devi?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/followers/Vanshika-devi?style=social"/>
 </a>
 
 </p>
@@ -21,59 +24,62 @@ Building scalable software, intelligent AI systems, and production-ready applica
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a Computer Science student passionate about solving real-world problems through software engineering and artificial intelligence.
-
-I enjoy designing scalable backend systems, building full-stack applications, and developing intelligent AI products powered by Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
-
-Currently working on production-grade AI systems while continuously strengthening my software engineering fundamentals.
+- 🎓 B.Tech Computer Science Student
+- 💻 Passionate about Backend Engineering and Full Stack Development
+- 🤖 Building AI-powered applications using LLMs and RAG
+- ⚙️ Love designing scalable APIs and production-ready systems
+- 🌱 Currently learning Distributed Systems, MLOps and System Design
+- 🎯 Goal: Build products used by millions of users
 
 ---
 
-# 🚀 What I'm Building
+# 🔥 Currently Building
 
-### 🎙 AI Voice Calling Platform
+## 🎙 AI Voice Calling Platform
 
-Production-ready conversational AI capable of handling real-time customer conversations.
+A production-ready conversational AI platform capable of handling real-time customer conversations.
 
-**Features**
+### Features
 
 - Voice AI
-- Twilio Media Streams
-- Streaming STT/TTS
-- Retrieval-Augmented Generation
+- RAG Knowledge Base
 - Campaign Management
 - Lead Management
+- Streaming STT & TTS
 - FastAPI Backend
 - PostgreSQL
+- Twilio Integration
+- ElevenLabs
 
 ---
 
-### 🤖 AI Resume Analyzer
+## 📄 AI Resume Analyzer
 
-An intelligent resume analysis platform combining Machine Learning and LLMs.
+An AI-powered resume analysis platform.
 
-**Highlights**
+### Highlights
 
-- ML model achieving **82% prediction accuracy**
-- ATS Score Prediction
+- ML model with **82% prediction accuracy**
+- ATS Resume Analysis
+- AI-powered Resume Suggestions
 - Resume Classification
-- AI Resume Suggestions
+- Full Stack Architecture
 
 ---
 
-### 📚 Professional RAG PDF Chatbot
+## 📚 Professional RAG PDF Chatbot
 
-Semantic document search and conversational AI over PDFs.
+A production-grade Retrieval-Augmented Generation chatbot capable of answering questions from uploaded PDFs.
 
-Supports
+Features include
 
 - OCR
-- Vector Search
+- Semantic Search
+- Vector Database
 - Multi-document Chat
-- ChromaDB
-- LangChain
+- Source Referencing
 
 ---
 
@@ -81,115 +87,99 @@ Supports
 
 ## Languages
 
-<p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
-
-</p>
+---
 
 ## Backend
 
-<p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs"/>
-
-</p>
+---
 
 ## Frontend
 
-<p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
-
-</p>
+---
 
 ## AI / Machine Learning
 
-- PyTorch
-- Scikit-Learn
-- Hugging Face
-- LangChain
-- ChromaDB
-- Ollama
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+
+---
 
 ## Databases
 
-<p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase"/>
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=tokyonight"/>
 
 </p>
 
-## Dev Tools
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+<img src="https://streak-stats.demolab.com?user=Vanshika-devi&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Currently Learning
 
+- Large Language Models
 - AI Agents
+- MLOps
 - Distributed Systems
 - Kubernetes
-- MLOps
 - System Design
-- High Performance Backend Engineering
 
 ---
 
-# 📊 GitHub Analytics
+# 🤝 Let's Connect
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika-devi&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 Current Goals
-
-- Build enterprise-grade AI products
-- Master Backend Engineering
-- Become an expert in LLM Engineering
-- Contribute to Open Source
-- Solve 500+ DSA problems
-- Crack top product companies
-
----
-
-# 📫 Let's Connect
-
-<p>
-
-<a href="https://www.linkedin.com/in/vanshika-devi-672859338/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:pundirvanshika249@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
-
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/vanshika-devi-672859338
+- 📧 Email: pundirvanshika249@gmail.com
 
 ---
 
 <div align="center">
 
-### 💡 "Great software is built by engineers who never stop learning."
+### ⭐ Thanks for visiting my profile!
 
-⭐ If you like my work, consider starring my repositories.
+*"Building software that combines scalable engineering with AI to solve meaningful problems."*
 
 </div>
