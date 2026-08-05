@@ -14,10 +14,6 @@ Currently exploring Large Language Models, Retrieval-Augmented Generation (RAG),
 <img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=Profile%20Views&color=0e75b6&style=flat"/>
 </a>
 
-<a href="https://github.com/Vanshika-devi?tab=followers">
-<img src="https://img.shields.io/github/followers/Vanshika-devi?style=social"/>
-</a>
-
 </p>
 
 </div>
