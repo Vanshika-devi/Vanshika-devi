@@ -54,50 +54,14 @@ Focused on building scalable backend services, real-time voice pipelines, and AI
 
 ## 🚀 Featured Projects
 
-## 🎙 AI Voice Calling Platform
+### 🎙 AI Voice Calling Platform
+Production-grade conversational AI using FastAPI, Twilio, ElevenLabs, PostgreSQL, OpenAI and RAG.
 
-A production-ready conversational AI platform capable of handling real-time customer conversations.
+### 📄 AI Resume Analyzer
+ML-powered resume analysis platform with an 82% accuracy model and ATS recommendations.
 
-### Features
-
-- Voice AI
-- RAG Knowledge Base
-- Campaign Management
-- Lead Management
-- Streaming STT & TTS
-- FastAPI Backend
-- PostgreSQL
-- Twilio Integration
-- ElevenLabs
-
----
-
-## 📄 AI Resume Analyzer
-
-An AI-powered resume analysis platform.
-
-### Highlights
-
-- ML model with **82% prediction accuracy**
-- ATS Resume Analysis
-- AI-powered Resume Suggestions
-- Resume Classification
-- Full Stack Architecture
-
----
-
-## 📚 Professional RAG PDF Chatbot
-
-A production-grade Retrieval-Augmented Generation chatbot capable of answering questions from uploaded PDFs.
-
-Features include
-
-- OCR
-- Semantic Search
-- Vector Database
-- Multi-document Chat
-- Source Referencing
-
+### 📚 RAG PDF Chatbot
+Semantic document Q&A using LangChain, ChromaDB, and FastAPI.
 ---
 
 # 💻 Tech Stack
@@ -154,6 +118,14 @@ Features include
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚧 Currently Building
+
+- 🤖 AI Operating System (Aegis AI)
+- 🎙️ Production AI Voice Calling Platform
+- 📚 Learning Distributed Systems & MLOps
 
 ---
 
