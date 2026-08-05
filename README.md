@@ -26,9 +26,11 @@ Currently exploring Large Language Models, Retrieval-Augmented Generation (RAG),
 
 ## 🚀 About Me
 
-I'm a Computer Science student passionate about building scalable software and AI-powered applications.
+I'm a Computer Science student with a strong interest in Software Engineering and Artificial Intelligence.
 
-Over the past year, I've worked on full-stack applications, backend systems, and intelligent AI products ranging from Voice AI platforms to Retrieval-Augmented Generation (RAG) systems.
+I enjoy building backend systems, full-stack web applications, and AI-powered products that solve real-world problems.
+
+My current focus is on designing scalable APIs, production-ready systems, and intelligent applications powered by Large Language Models and Retrieval-Augmented Generation.
 
 I'm particularly interested in:
 
@@ -40,6 +42,15 @@ I'm particularly interested in:
 
 ---
 
+## 💼 Experience
+
+**Web Developer Intern @ NexTech Innovation**
+
+Working on a production-grade AI Voice Calling Platform using FastAPI, PostgreSQL, Twilio, WebSockets, and Large Language Models.
+
+Focused on building scalable backend services, real-time voice pipelines, and AI-powered customer automation.
+
+---
 # 🔥 Currently Building
 
 ## 🎙 AI Voice Calling Platform
@@ -145,18 +156,6 @@ Features include
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-devi&theme=tokyo-night&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Vanshika-devi&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - Large Language Models
@@ -186,8 +185,8 @@ Features include
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-*"Building software that combines scalable engineering with AI to solve meaningful problems."*
+Always learning • Always building • Always improving
 
 </div>
