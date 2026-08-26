@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Vanshika Devi
 
-### Full Stack Developer | AI Engineer | Building LLM and RAG Applications
+### Software Engineer | AI Engineer | Building LLM and RAG Applications
 
 <p>
 I'm passionate about building scalable software and AI-powered applications that solve real-world problems.
