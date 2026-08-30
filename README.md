@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vanshika Devi 👋
+# 👋 Hi, I'm Vanshika Devi
 
 ### Software Engineer | AI/ML & LLM Engineer
 
@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vanshika-devi-672859338/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Vanshika_devi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pundirvanshika249@gmail.com)
 
 </div>
 
@@ -17,7 +18,7 @@
 
 Computer Science student focused on **Software Engineering & AI**.
 
-I build **LLM applications, RAG systems, backend services, and real-time AI applications**, with a growing focus on **distributed systems and MLOps**.
+I build **LLM applications, RAG systems, backend services, and real-time AI applications**, with a growing focus on **distributed systems, MLOps, and system design**.
 
 ---
 
@@ -32,11 +33,11 @@ Worked on a production **AI Voice Calling Platform** using
 
 ## 🚀 Projects
 
-| Project                           | Description                    |
-| --------------------------------- | ------------------------------ |
-| 🎙️ **AI Voice Calling Platform** | Real-time conversational AI    |
-| 📄 **RAG PDF Chatbot**            | AI-powered document Q&A        |
-| 📊 **AI Resume Analyzer**         | ML-based resume & ATS analysis |
+| Project                             | Description                    |
+| ----------------------------------- | ------------------------------ |
+| 🎙️ **AI Voice Calling Platform**   | Real-time conversational AI    |
+| 📄 **Professional RAG PDF Chatbot** | AI-powered document Q&A        |
+| 📊 **AI Resume Analyzer**           | ML-based resume & ATS analysis |
 
 ---
 
@@ -55,6 +56,13 @@ Worked on a production **AI Voice Calling Platform** using
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
 ### AI / ML / GenAI
 
@@ -62,13 +70,23 @@ Worked on a production **AI Voice Calling Platform** using
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
 
-### Databases & Tools
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 </div>
 
@@ -76,8 +94,16 @@ Worked on a production **AI Voice Calling Platform** using
 
 <div align="center">
 
-**🚧 Currently Building:** Aegis AI • MetaForge • AetherOS • Chronos
+### 🚧 Currently Building
 
-**AI Engineering • Machine Learning • Backend • Distributed Systems**
+**Aegis AI • MetaForge • AetherOS • Chronos**
+
+### 🎯 Focus
+
+**AI Engineering • Machine Learning • LLMs • Backend • Distributed Systems • MLOps**
+
+<br>
+
+**Always Learning • Always Building • Always Improving**
 
 </div>
