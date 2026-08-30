@@ -1,162 +1,124 @@
-<div align="center">
+# Hi, I'm Vanshika Devi 👋
 
-# Hi there 👋, I'm Vanshika Devi
+### Software Engineer | AI/ML & LLM Engineer
 
-### Software Engineer | AI Engineer | Building LLM and RAG Applications
-
-<p>
-I'm passionate about building scalable software and AI-powered applications that solve real-world problems.
-Currently exploring Large Language Models, Retrieval-Augmented Generation (RAG), Backend Engineering, and MLOps.
-</p>
-
-<p>
-<a href="https://github.com/Vanshika-devi">
-<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=Profile%20Views&color=0e75b6&style=flat"/>
-</a>
-
-</p>
-
-</div>
+Building **production-grade AI systems, scalable backend services, and real-time intelligent applications.**
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science student with a strong interest in Software Engineering and Artificial Intelligence.
-
-I enjoy building backend systems, full-stack web applications, and AI-powered products that solve real-world problems.
-
-My current focus is on designing scalable APIs, production-ready systems, and intelligent applications powered by Large Language Models and Retrieval-Augmented Generation.
-
-I'm particularly interested in:
-
-- Backend Engineering
-- AI Engineering
-- Distributed Systems
-- Large Language Models
-- MLOps
+* 🎓 Computer Science student focused on **Software Engineering & AI**
+* 🤖 Building with **LLMs, RAG, Machine Learning & AI Agents**
+* ⚡ Interested in **Backend Engineering, Real-Time Systems & Distributed Systems**
+* 🛠️ Focused on building practical, production-oriented software
+* 📚 Currently deepening my knowledge of **System Design, MLOps & AI Engineering**
 
 ---
 
 ## 💼 Experience
 
-**Web Developer Intern @ NexTech Innovation**
+### Web Developer Intern — NexTech Innovation
 
-Working on a production-grade AI Voice Calling Platform using FastAPI, PostgreSQL, Twilio, WebSockets, and Large Language Models.
+Worked on a **production AI Voice Calling Platform** using:
 
-Focused on building scalable backend services, real-time voice pipelines, and AI-powered customer automation.
+`FastAPI` `PostgreSQL` `WebSockets` `Twilio` `LLMs` `RAG`
 
----
-
-## 🚀 Featured Projects
-
-### 🎙 AI Voice Calling Platform
-Production-grade conversational AI using FastAPI, Twilio, ElevenLabs, PostgreSQL, OpenAI and RAG.
-
-### 📄 AI Resume Analyzer
-ML-powered resume analysis platform with an 82% accuracy model and ATS recommendations.
-
-### 📚 RAG PDF Chatbot
-Semantic document Q&A using LangChain, ChromaDB, and FastAPI.
+Focused on backend services, real-time communication, conversational AI workflows, and customer automation.
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Projects
 
-## Languages
+### 🎙️ AI Voice Calling Platform
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Real-time conversational AI system for AI-powered voice interactions and customer automation.
 
----
+**Tech:** FastAPI • WebSockets • PostgreSQL • Twilio • LLMs • RAG
 
-## Backend
+### 📄 Professional RAG PDF Chatbot
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+AI-powered document Q&A system with semantic retrieval and OCR-based document understanding.
 
----
+**Tech:** FastAPI • React • LangChain • ChromaDB • Ollama
 
-## Frontend
+### 📊 AI Resume Analyzer
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+ML-powered resume analysis platform with ATS scoring, role prediction, job matching, and AI-powered assistance.
+
+**Tech:** React • FastAPI • MERN • Machine Learning • Phi-3
 
 ---
 
-## AI / Machine Learning
+## 🧰 Tech Stack
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+### Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-## Databases
+### Backend
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
----
+### AI / Machine Learning
 
-## Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### LLM / GenAI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
+
+**LLMs • RAG • AI Agents • Embeddings • Vector Search • Conversational AI**
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
 ## 🚧 Currently Building
 
-- 🤖 AI Operating System (Aegis AI)
-- 🎙️ Production AI Voice Calling Platform
-- 📚 Learning Distributed Systems & MLOps
+* 🤖 **Aegis AI** — Autonomous AI Research & Engineering Platform
+* 🔬 **MetaForge** — AI-powered ML Research System
+* ⚙️ **Chronos** — Distributed Job Scheduling System
+* 🌐 **AetherOS** — AI-focused systems project
 
 ---
 
-# 🌱 Currently Learning
+## 🎯 Current Focus
 
-- Large Language Models
-- AI Agents
-- MLOps
-- Distributed Systems
-- Kubernetes
-- System Design
+**AI Engineering • Machine Learning • LLMs • Backend Engineering • Distributed Systems • MLOps • System Design**
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vanshika-devi-672859338/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Vanshika_devi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pundirvanshika249@gmail.com)
+
+---
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vanshika-devi-672859338">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pundirvanshika249@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Always Learning • Always Building • Always Improving**
 
 </p>
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-Always learning • Always building • Always improving
-
-</div>
