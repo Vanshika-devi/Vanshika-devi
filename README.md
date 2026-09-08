@@ -1,265 +1,193 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%20%E2%80%A2%20%20SOFTWARE%20ENGINEER&descAlignY=59&descSize=16&color=0:020617,45:0f172a,75:0c4a6e,100:0369a1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:020617,50:0f172a,100:0369a1"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=Building+intelligent+software+systems;AI+%C3%97+Software+%C3%97+Systems;Machine+Learning+%7C+LLMs+%7C+Full+Stack;Turning+ideas+into+engineered+systems" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&style=for-the-badge&color=38BDF8&labelColor=020617"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-&nbsp;
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=AI%20%2F%20ML%20Engineer;Software%20Engineer;Building%20Intelligent%20Systems;AI%20%C3%97%20Software%20%C3%97%20Systems" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&style=for-the-badge&color=0369A1"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE/">
+<img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-### `ENGINEERING INTELLIGENCE`
+### Building at the intersection of **Artificial Intelligence & Software Engineering**
 
-**AI/ML**  •  **BACKEND**  •  **FRONTEND**  •  **SYSTEMS**
+<br/>
+
+`AI/ML`   `LLMs`   `Backend`   `Frontend`   `Systems`
 
 </div>
 
-<br>
+<br/>
 
 ---
 
 <div align="center">
 
-## ⚡ THE ENGINEER
+## ABOUT
 
 </div>
 
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🧠 AI / ML
+### Hi, I'm Vanshika 👋
 
-Machine Learning
-Deep Learning
-LLMs & Generative AI
-RAG Systems
-NLP
-Model Experimentation
+I'm a Computer Science student interested in building **intelligent, reliable and useful software systems**.
 
-</td>
+My main interests sit at the intersection of:
 
-<td width="50%" valign="top">
+* 🧠 Artificial Intelligence
+* ⚙️ Software Engineering
+* 🔬 Machine Learning
+* 🌐 Full-Stack Development
+* 🏗️ Systems & Backend Engineering
 
-### ⚙️ SOFTWARE
-
-Backend Engineering
-API Development
-Real-Time Systems
-Full-Stack Applications
-System Design
-Developer Tooling
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-> **I like understanding how intelligent systems work —
-> then turning that understanding into software.**
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 🧩 TECHNOLOGY MATRIX
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-**LANGUAGES**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark"/>
+I enjoy going from **understanding → experimenting → engineering → improving**.
 
 </td>
 
-<td align="center" width="25%">
-
-**FRONTEND**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark"/>
-
-</td>
-
-<td align="center" width="25%">
-
-**BACKEND**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark"/>
-
-</td>
-
-<td align="center" width="25%">
-
-**DATA**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-**AI / ML**
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HuggingFace-020617?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Ollama-020617?style=for-the-badge&logo=ollama&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/RAG-020617?style=for-the-badge&logoColor=38BDF8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**ENGINEERING TOOLS**
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm&theme=dark"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## ◈ ENGINEERING MINDSET
-
-</div>
-
-<div align="center">
+<td width="45%" align="center" valign="middle">
 
 ```text
-        LEARN
-          │
-          ▼
-       EXPERIMENT
-          │
-          ▼
-        BUILD
-          │
-          ▼
-       MEASURE
-          │
-          ▼
-       IMPROVE
-          │
-          └───────────────► REPEAT
+       ┌───────────────┐
+       │      AI       │
+       └───────┬───────┘
+               │
+               ▼
+       ┌───────────────┐
+       │   SOFTWARE    │
+       └───────┬───────┘
+               │
+               ▼
+       ┌───────────────┐
+       │    SYSTEMS    │
+       └───────────────┘
 ```
 
-</div>
+**AI × SOFTWARE × SYSTEMS**
 
-<br>
-
-<div align="center">
-
-**Curiosity → Engineering → Iteration**
-
-</div>
-
-<br>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 📊 GITHUB
+## TECH STACK
 
-<br>
+### Languages
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/>
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Languages"/>
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend"/>
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" alt="Backend"/>
+
+<br/><br/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI ML"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-0F172A?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama"/>
+
+<br/><br/>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,postman&theme=dark" alt="Databases and tools"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## GITHUB
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats"/>
 
   
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" alt="Top Languages"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-## `01 — THINK`
+## ENGINEERING PHILOSOPHY
 
-**Understand the problem.**
+<br/>
 
-   →   
+**Learn deeply.**
 
-## `02 — BUILD`
+↓
 
-**Turn ideas into systems.**
+**Build deliberately.**
 
-   →   
+↓
 
-## `03 — EVOLVE`
+**Experiment constantly.**
 
-**Make them better.**
+↓
+
+**Improve continuously.**
+
+<br/><br/>
+
+`Curiosity → Engineering → Iteration`
 
 </div>
 
-<br><br>
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0369a1,40:0c4a6e,70:0f172a,100:020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0369a1,50:0f172a,100:020617"/>
 
 </div>
