@@ -20,14 +20,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Vanshika%20Devi-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
-<a href="https://leetcode.com/u/Vanshika_devi/">
-<img src="https://img.shields.io/badge/LeetCode-Vanshika__devi-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://www.freecodecamp.org/vanshika-fullstack-aiml">
-<img src="https://img.shields.io/badge/freeCodeCamp-Profile-020617?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-</a>
-
 </div>
 
 <br/>
