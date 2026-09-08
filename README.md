@@ -46,7 +46,7 @@ services and polished user interfaces.
 
 <div align="center">
 
-`AI Engineering`   ·   `Machine Learning`   ·   `LLMs`
+`Software Engineering`   ·   `Machine Learning`   ·   `LLMs`
 `RAG`   ·   `Backend`   ·   `Full Stack`   ·   `Systems`
 
 </div>
@@ -137,11 +137,7 @@ Improve
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,pytorch,git,github,postman&theme=dark" alt="Technology Stack"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HuggingFace-020617?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Ollama-020617?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<br/>
 
 </div>
 
