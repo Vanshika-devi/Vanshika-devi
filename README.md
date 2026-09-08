@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-Vanshika%20Devi-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
+<a href="https://www.freecodecamp.org/vanshika-fullstack-aiml"> <img src="https://img.shields.io/badge/freeCodeCamp-Profile-020617?style=for-the-badge&logo=freecodecamp&logoColor=white"/> </a>
+
 </div>
 
 <br/>
@@ -141,7 +143,7 @@ Improve
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,pytorch,tensorflow,git,github,docker,postman&theme=dark" alt="Technology Stack"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,pytorch,git,github,postman&theme=dark" alt="Technology Stack"/>
 
 <br/><br/>
 
