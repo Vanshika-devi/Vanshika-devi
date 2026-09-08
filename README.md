@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;AI%2FML+%26+LLM+Enthusist;Building+Production-Grade+AI+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Real-Time+AI" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;AI%2FML+%26+LLM+Enthusist;Building+Production-Grade+Software+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Real-Time+AI" alt="Typing SVG"/>
 
 <br/>
 
@@ -26,14 +26,6 @@
 
 <br/>
 
-<div align="center">
-
-### `AI × SOFTWARE × SYSTEMS`
-
-</div>
-
-<br/>
-
 ---
 
 ## `WHO AM I?`
@@ -41,8 +33,8 @@
 ```text
 Vanshika Devi
 ├── Computer Science & Information Technology
-├── AI / ML Engineer
 ├── Software Engineer
+├── AI / ML Enthusist
 └── Systems Thinker
 ````
 
