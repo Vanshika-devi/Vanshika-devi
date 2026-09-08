@@ -28,8 +28,6 @@
 
 ### `AI × SOFTWARE × SYSTEMS`
 
-**Artificial Intelligence**   •   **Machine Learning**   •   **Software Engineering**
-
 </div>
 
 <br/>
