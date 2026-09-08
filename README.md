@@ -1,3 +1,4 @@
+````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:020617,45:0f172a,75:0c4a6e,100:0369a1" width="100%"/>
@@ -44,7 +45,7 @@ Vanshika Devi
 ├── AI / ML Engineer
 ├── Software Engineer
 └── Systems Thinker
-```
+````
 
 I enjoy building systems where **AI meets real software** —
 from intelligent models and LLM pipelines to scalable backend
@@ -54,8 +55,8 @@ services and polished user interfaces.
 
 <div align="center">
 
-`AI Engineering`   ·   `Machine Learning`   ·   `LLMs`
-`RAG`   ·   `Backend`   ·   `Full Stack`   ·   `Systems`
+`AI Engineering`   ·   `Machine Learning`   ·   `LLMs`
+`RAG`   ·   `Backend`   ·   `Full Stack`   ·   `Systems`
 
 </div>
 
@@ -243,7 +244,7 @@ Repeat
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&v=2" alt="GitHub Streak"/>
 
 </div>
 
@@ -264,3 +265,4 @@ Repeat
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0369a1,45:0c4a6e,75:0f172a,100:020617" width="100%"/>
 
 </div>
+```
