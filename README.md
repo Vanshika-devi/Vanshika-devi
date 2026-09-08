@@ -36,7 +36,34 @@
 
 ### `AI × SOFTWARE × SYSTEMS`
 
-Building intelligent systems with **Python · Java · JavaScript**
+**Artificial Intelligence**   •   **Machine Learning**   •   **Software Engineering**
+
+</div>
+
+<br/>
+
+---
+
+## `WHO AM I?`
+
+```text
+Vanshika Devi
+├── Computer Science & Information Technology
+├── AI / ML Engineer
+├── Software Engineer
+└── Systems Thinker
+```
+
+I enjoy building systems where **AI meets real software** —
+from intelligent models and LLM pipelines to scalable backend
+services and polished user interfaces.
+
+<br/>
+
+<div align="center">
+
+`AI Engineering`   ·   `Machine Learning`   ·   `LLMs`
+`RAG`   ·   `Backend`   ·   `Full Stack`   ·   `Systems`
 
 </div>
 
@@ -46,16 +73,67 @@ Building intelligent systems with **Python · Java · JavaScript**
 
 <div align="center">
 
-01 — WHO AM I?
-Vanshika Devi
-├── Computer Science & Information Technology
-├── AI / ML Engineer
-├── Software Engineer
-└── Systems Thinker
+## `WHAT I CARE ABOUT`
 
-I enjoy building systems where AI meets real software —
-from intelligent models and LLM pipelines to scalable backend
-services and polished user interfaces.
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**INTELLIGENCE**
+
+ML
+LLMs
+RAG
+NLP
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**ENGINEERING**
+
+Backend
+APIs
+Real-Time
+Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**INTERFACES**
+
+React
+Frontend
+UX
+Full Stack
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔬
+
+**EXPERIMENTATION**
+
+Learn
+Build
+Measure
+Improve
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -95,6 +173,7 @@ services and polished user interfaces.
 
 <table>
 <tr>
+
 <td align="center">
 
 **01**
@@ -156,6 +235,7 @@ Optimize
 Repeat
 
 </td>
+
 </tr>
 </table>
 
