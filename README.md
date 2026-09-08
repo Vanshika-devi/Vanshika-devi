@@ -1,127 +1,204 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=VANSHIKA%20DEVI&fontSize=46&fontAlignY=38&fontColor=ffffff&animation=fadeIn&color=gradient"/>
+<!-- HERO -->
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%20%C2%B7%20%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=17&color=0:0f172a,50:111827,100:0c4a6e"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI%2FML+%26+LLM+Engineer;Building+Intelligent+Systems;AI+%C3%97+Software+%C3%97+Systems"/>
+<br/>
 
-<br><br>
+<!-- TYPING ANIMATION -->
 
-<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE+VIEWS&style=for-the-badge&color=00D9FF"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Building+intelligent+software+systems;AI+%2F+ML+%2F+LLM+Engineering;Full-Stack+%7C+Backend+%7C+AI;Turning+ideas+into+working+systems" alt="Typing animation"/>
+</a>
 
-<br><br>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/vanshika-devi-672859338/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!-- PROFILE VIEWS -->
+
+<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=for-the-badge&color=38BDF8&labelColor=0f172a"/>
+
+<br/><br/>
+
+<!-- SOCIALS -->
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/Vanshika_devi/">
-<img src="https://img.shields.io/badge/LeetCode-61%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<br><br>
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,spring,nodejs,pytorch,docker,postgres,mongodb&perline=11"/>
+<br/>
+
+---
+
+## `01` — WHO AM I?
+
+```text
+Vanshika Devi
+├── Computer Science & Information Technology
+├── AI / ML Engineer
+├── Software Engineer
+└── Systems Thinker
+```
+
+> I enjoy building systems where **AI meets real software** —
+> from intelligent models and LLM pipelines to scalable backend
+> services and polished user interfaces.
+
+<div align="center">
+
+**AI × SOFTWARE × SYSTEMS**
 
 </div>
 
 ---
 
+## `02` — TECHNOLOGY
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark"/>
+</p>
+
+### AI / ML / GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-0f172a?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/Ollama-0f172a?style=for-the-badge&logo=ollama&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/RAG-0f172a?style=for-the-badge&logoColor=38BDF8"/>
+
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm&theme=dark"/>
+</p>
+
+---
+
+## `03` — ENGINEERING FOCUS
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🧠 AI / ML
+
+Machine Learning
+Deep Learning
+LLMs
+RAG
+NLP
+Model experimentation
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ SOFTWARE
+
+Backend Engineering
+REST APIs
+Real-time Systems
+Full-Stack Development
+System Design
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔬 ENGINEERING
+
+Experimentation
+Automation
+Optimization
+Developer Tools
+Intelligent Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — GITHUB ACTIVITY
+
 <div align="center">
 
-### `> whoami`
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/>
 
-**Computer Science Student · Software Engineer · AI/ML Enthusiast**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8"/>
 
-Exploring the intersection of **Artificial Intelligence, Software Engineering & Systems**.
+</div>
 
-<br>
+<br/>
 
-`Learn` → `Build` → `Experiment` → `Improve`
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=94a3b8&line=38bdf8&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🧠 Engineering Interests
+## `05` — CURRENTLY
 
 <div align="center">
 
-|    🧠 AI / ML    |      ⚙️ Software      |      🌐 Systems     |
-| :--------------: | :-------------------: | :-----------------: |
-| Machine Learning |  Backend Engineering  | Distributed Systems |
-|       LLMs       |       Full Stack      |  Real-Time Systems  |
-|        RAG       |    APIs & Databases   |    System Design    |
-|   Generative AI  | Software Architecture |        MLOps        |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&height=35&lines=Learning+deeply.;Building+consistently.;Experimenting+with+AI.;Engineering+better+systems."/>
 
 </div>
 
----
-
-## ⚙️ Tech Stack
+<br/>
 
 <div align="center">
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js"/>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
-
-### ⚡ Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express"/>
-
-### 🧠 AI / ML / GenAI
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,huggingface"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase"/>
-
-### 🛠️ Tools & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman"/>
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ CURRENTLY IN BUILD MODE
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Engineering+AI+Systems...;Exploring+Machine+Learning...;Building+with+LLMs...;Solving+Hard+Problems...;Getting+Better+Every+Day..."/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+```text
+LEARN  →  BUILD  →  EXPERIMENT  →  IMPROVE
+```
 
 </div>
 
@@ -131,12 +208,10 @@ Exploring the intersection of **Artificial Intelligence, Software Engineering & 
 
 ### `AI × SOFTWARE × SYSTEMS`
 
-<br>
+<sub>Always learning. Always building.</sub>
 
-**Always Learning · Always Building · Always Improving**
+<br/><br/>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=fadeIn&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0c4a6e,50:111827,100:0f172a"/>
 
 </div>
