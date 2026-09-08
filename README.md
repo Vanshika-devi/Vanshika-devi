@@ -4,9 +4,13 @@
 
 ### `Software Engineer` · `AI/ML Engineer` · `LLM Engineer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Machine+Learning;Real-Time+AI+%7C+Backend+Engineering;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems;Engineering+LLMs+%26+RAG+Applications;Building+Real-Time+AI+Experiences;AI+%C3%97+Software+Engineering+%C3%97+Systems" />
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vanshika-devi-672859338/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-61%2B%20Solved-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Vanshika_devi/)
@@ -19,14 +23,18 @@
 
 Computer Science student focused on **Software Engineering & Artificial Intelligence**.
 
-I build **LLM applications, RAG systems, machine learning solutions, backend services, and real-time AI applications** — with a growing focus on **distributed systems, MLOps, and system design**.
+I build **LLM applications, RAG systems, ML solutions, backend services, and real-time AI applications**, while exploring **distributed systems, MLOps, and system design**.
 
 ```text
-AI / ML  ────────────────┐
-LLMs + RAG ──────────────┤
-Backend Engineering ────┼──► Production-Grade AI Systems
-Real-Time Systems ──────┤
-Distributed Systems ────┘
+        ┌─────────────────────────────────────┐
+        │        VANSHIKA'S ENGINEERING       │
+        ├─────────────────────────────────────┤
+        │  🧠 AI / ML      → Intelligence     │
+        │  🤖 LLMs / RAG   → AI Applications  │
+        │  ⚡ Backend      → Scalable APIs     │
+        │  🎨 Frontend     → User Experience   │
+        │  🌐 Systems      → Distributed Apps  │
+        └─────────────────────────────────────┘
 ```
 
 ---
@@ -35,7 +43,7 @@ Distributed Systems ────┘
 
 ### Web Developer Intern — NexTech Innovation
 
-Worked on a **production AI Voice Calling Platform**, contributing to backend services and real-time AI workflows.
+Contributed to a **production AI Voice Calling Platform** involving backend services, real-time communication and AI-powered conversations.
 
 `FastAPI` `PostgreSQL` `WebSockets` `Twilio` `LLMs` `RAG`
 
@@ -43,13 +51,17 @@ Worked on a **production AI Voice Calling Platform**, contributing to backend se
 
 ## 🚀 Featured Projects
 
-| 🛡️ Project            | What I Build                                        |
-| :--------------------- | :-------------------------------------------------- |
-| **Aegis AI**           | Autonomous AI research & ML engineering platform    |
-| **MetaForge**          | Self-improving ML experimentation & research system |
-| **AI Voice Platform**  | Real-time conversational AI with streaming          |
-| **Professional RAG**   | Production-grade PDF intelligence & Q&A             |
-| **AI Resume Analyzer** | ML-powered resume & ATS analysis                    |
+<div align="center">
+
+|                 🛡️ **Aegis AI**                 |          🧬 **MetaForge**         |
+| :----------------------------------------------: | :-------------------------------: |
+| Autonomous AI Research & ML Engineering Platform | Self-Improving ML Research System |
+
+|  🎙️ **AI Voice Platform**  |      📄 **Professional RAG**     |
+| :-------------------------: | :------------------------------: |
+| Real-Time Conversational AI | AI-Powered Document Intelligence |
+
+</div>
 
 ---
 
@@ -57,34 +69,49 @@ Worked on a **production AI Voice Calling Platform**, contributing to backend se
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-**AI / ML / LLM**
+### 🧠 AI / ML / LLM
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
 
-**Backend & Frontend**
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+
+### ⚡ Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-**Databases & Infrastructure**
+### 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+
+### 🛠️ Tools & Infrastructure
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 </div>
 
@@ -92,28 +119,30 @@ Worked on a **production AI Voice Calling Platform**, contributing to backend se
 
 ## 🛰️ Currently Building
 
+<div align="center">
+
 ```text
-╭────────────────────────────────────────────╮
-│             VANSHIKA'S LAB                 │
-├────────────────────────────────────────────┤
-│ 🛡️  Aegis AI       → AI Engineering       │
-│ 🧬  MetaForge      → ML Research          │
-│ 🌌  AetherOS       → AI Systems            │
-│ ⏳  Chronos        → Intelligent Systems   │
-╰────────────────────────────────────────────╯
+╭──────────────────────────────────────────────╮
+│              🚀 VANSHIKA'S LAB               │
+├──────────────────────────────────────────────┤
+│                                              │
+│   🛡️  Aegis AI     ███████████████░░  AI    │
+│   🧬  MetaForge    ████████████░░░░░  ML    │
+│   🌌  AetherOS     ████████░░░░░░░░░  SYS   │
+│   ⏳  Chronos      ██████░░░░░░░░░░░  AI    │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
-### 🎯 Focus
+**AI Engineering · Machine Learning · LLMs · Full Stack · Distributed Systems · MLOps**
 
-**AI Engineering · Machine Learning · LLMs · Backend · Distributed Systems · MLOps**
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Build → Experiment → Learn → Improve → Ship
-
-<br>
+### ⚡ BUILD • EXPERIMENT • LEARN • SHIP
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
