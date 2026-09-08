@@ -224,7 +224,7 @@ Repeat
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-devi&bg_color=0D1117&color=94A3B8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com/?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak"/>
 
 </div>
 
