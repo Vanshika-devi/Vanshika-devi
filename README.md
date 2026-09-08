@@ -46,69 +46,16 @@ Building intelligent systems with **Python · Java · JavaScript**
 
 <div align="center">
 
-## 🧠 WHAT I WORK WITH
+01 — WHO AM I?
+Vanshika Devi
+├── Computer Science & Information Technology
+├── AI / ML Engineer
+├── Software Engineer
+└── Systems Thinker
 
-<br/>
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### AI / ML
-
-<br/>
-
-`Machine Learning`
-
-`Deep Learning`
-
-`LLMs`
-
-`RAG`
-
-`NLP`
-
-</td>
-
-<td align="center" width="33%">
-
-### SOFTWARE
-
-<br/>
-
-`Backend`
-
-`APIs`
-
-`Real-Time Systems`
-
-`System Design`
-
-`Full Stack`
-
-</td>
-
-<td align="center" width="33%">
-
-### PRODUCT
-
-<br/>
-
-`React`
-
-`FastAPI`
-
-`Node.js`
-
-`Databases`
-
-`Docker`
-
-</td>
-
-</tr>
-</table>
+I enjoy building systems where AI meets real software —
+from intelligent models and LLM pipelines to scalable backend
+services and polished user interfaces.
 
 </div>
 
