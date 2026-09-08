@@ -4,25 +4,21 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Vanshika-devi">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=AI%20%2F%20ML%20Engineer;Software%20Engineer;Building%20Intelligent%20Systems;AI%20%C3%97%20Software%20%C3%97%20Systems" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&style=for-the-badge&color=0369A1"/>
+<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=for-the-badge&color=0369A1"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/vanshika-devi-672859338/)">
 <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE/">
-<img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Vanshika-devi">
 <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
@@ -56,7 +52,7 @@
 
 ### Hi, I'm Vanshika 👋
 
-I'm a Computer Science student interested in building **intelligent, reliable and useful software systems**.
+I'm a Computer Science and Information Technology student interested in building **intelligent, reliable and useful software systems**.
 
 My main interests sit at the intersection of:
 
@@ -144,15 +140,15 @@ I enjoy going from **understanding → experimenting → engineering → improvi
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats"/>
 
   
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
 </div>
 
