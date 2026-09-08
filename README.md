@@ -2,120 +2,60 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=VANSHIKA%20DEVI&fontSize=48&fontAlignY=38&fontColor=ffffff&animation=twinkling&gradient=true&customColorList=2,11,20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI%2FML+%26+LLM+Engineer;Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+ML+%7C+Real-Time+AI;Engineering+Systems+That+Think%2C+Learn+%26+Scale"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Software+Engineer;AI%2FML+%26+LLM+Engineer;Building+Intelligent+Systems;Learning+%7C+Engineering+%7C+Experimenting"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/vanshika-devi-672859338/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/Vanshika_devi/">
-<img src="https://img.shields.io/badge/LEETCODE-61%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-61%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,spring,nodejs,pytorch,docker,postgres,mongodb&perline=11"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+### `whoami`
+
+**Computer Science Student • Software Engineer • AI/ML Enthusiast**
+
+I enjoy turning **ideas into working systems** and exploring the intersection of
+**Artificial Intelligence, Software Engineering & Systems.**
+
+</div>
+
+---
+
+## 🧠 What I Work With
 
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                    VANSHIKA.DEV                         │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  $ ./initialize_ai_engineer                            │
-│                                                         │
-│  [✓] Machine Learning                                  │
-│  [✓] Large Language Models                             │
-│  [✓] Retrieval Augmented Generation                    │
-│  [✓] Backend Engineering                               │
-│  [✓] Full-Stack Development                            │
-│  [✓] Real-Time AI Systems                              │
-│  [→] Distributed Systems                               │
-│  [→] MLOps                                             │
-│                                                         │
-│  STATUS: BUILDING                                      │
-└─────────────────────────────────────────────────────────┘
+                 ┌─────────────────────┐
+                 │   VANSHIKA.DEV      │
+                 └──────────┬──────────┘
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+        ▼                   ▼                   ▼
+   🧠 AI / ML          ⚙️ ENGINEERING       🎨 FRONTEND
+   LLMs                Backend              React
+   RAG                 APIs                  Tailwind
+   PyTorch             Databases             Vite
+   ML Systems          Real-Time             JavaScript
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            ▼
+                   🚀 Intelligent Systems
 ```
-
-</div>
-
-## 🧠 About Me
-
-Computer Science student focused on **AI × Software Engineering × Systems**.
-
-I build **LLM applications, RAG systems, ML solutions, backend services and real-time AI applications** — with a growing focus on **distributed systems, MLOps and system design**.
-
----
-
-## 💼 Experience
-
-### Web Developer Intern · NexTech Innovation
-
-Contributed to a **production AI Voice Calling Platform**, working across backend services, real-time communication and AI-powered conversation workflows.
-
-`FastAPI` `PostgreSQL` `WebSockets` `Twilio` `LLMs` `RAG`
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🛡️ Aegis AI
-
-**Autonomous AI Research & ML Engineering Platform**
-
-`AI Agents` · `ML` · `LLMs` · `MLOps`
-
-</td>
-
-<td width="50%" align="center">
-
-### 🧬 MetaForge
-
-**Self-Improving ML Research System**
-
-`ML` · `Experiments` · `LLMs` · `Research`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🎙️ AI Voice Platform
-
-**Real-Time Conversational AI**
-
-`FastAPI` · `WebSockets` · `RAG`
-
-</td>
-
-<td width="50%" align="center">
-
-### 📄 Professional RAG
-
-**Production-Grade Document Intelligence**
-
-`React` · `LangChain` · `ChromaDB` · `Ollama`
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -149,7 +89,7 @@ Contributed to a **production AI Voice Calling Platform**, working across backen
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase"/>
 
-### 🛠️ Tools & Infrastructure
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman"/>
 
@@ -161,13 +101,11 @@ Contributed to a **production AI Voice Calling Platform**, working across backen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" width="48%"/>
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<br>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
 
@@ -175,30 +113,20 @@ Contributed to a **production AI Voice Calling Platform**, working across backen
 
 ---
 
-## 🔬 Currently Building
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+Aegis+AI.............+Research+Engine;%3E+MetaForge............+ML+Experimentation;%3E+AetherOS.............+AI+Systems;%3E+Chronos..............+Intelligent+Systems"/>
+### 🌐 FOCUS
 
-</div>
+`Artificial Intelligence` · `Machine Learning` · `LLMs` · `RAG`
 
----
-
-<div align="center">
-
-### 🌐 ENGINEERING FOCUS
-
-`AI Engineering` · `Machine Learning` · `LLMs` · `RAG`
-
-`Full Stack` · `Backend Systems` · `Real-Time AI` · `Distributed Systems` · `MLOps`
+`Software Engineering` · `Backend` · `Full Stack` · `Real-Time Systems`
 
 <br><br>
 
-### ⚡ `BUILD` → `EXPERIMENT` → `LEARN` → `IMPROVE` → `SHIP`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Learning+something+new+every+day.;Building+systems%2C+not+just+features.;Curiosity+drives+the+code.;Always+learning.+Always+building."/>
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&gradient=true&customColorList=2,11,20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&gradient=true&customColorList=2,11,20"/>
 
 </div>
