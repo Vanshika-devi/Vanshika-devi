@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;AI%2FML+%26+LLM+Engineer;Building+Production-Grade+AI+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Real-Time+AI" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=for-the-badge&color=0ea5e9&labelColor=020617" alt="Profile Views"/>
 
@@ -34,175 +34,213 @@
 
 <div align="center">
 
-### AI × SOFTWARE × SYSTEMS
+### `AI × SOFTWARE × SYSTEMS`
 
-**Artificial Intelligence**   •   **Machine Learning**   •   **Software Engineering**
+Building intelligent systems with **Python · Java · JavaScript**
 
 </div>
 
----
-
-## `ABOUT`
-
-I'm a Computer Science student focused on **AI/ML and Software Engineering**.
-
-I enjoy building systems where intelligent models meet real software — from **LLM and RAG applications** to **backend services, real-time systems, and full-stack interfaces**.
-
-My engineering interests revolve around:
-
-`AI Engineering` · `Machine Learning` · `LLMs` · `RAG` · `Backend` · `Full Stack` · `Systems`
+<br/>
 
 ---
-
-## `STACK`
 
 <div align="center">
 
-### LANGUAGES
+## 🧠 WHAT I WORK WITH
 
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python Java JavaScript"/>
-
-<br/><br/>
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML CSS React Tailwind Vite"/>
-
-<br/><br/>
-
-### BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" alt="Node Express FastAPI Spring"/>
-
-<br/><br/>
-
-### AI / ML / GENAI
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch TensorFlow Scikit Learn"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-020617?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Ollama-020617?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-
-<br/><br/>
-
-### DATABASES
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="PostgreSQL MongoDB MySQL"/>
-
-<br/><br/>
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm&theme=dark" alt="Git GitHub Docker Postman NPM"/>
-
-</div>
-
----
-
-## `ENGINEERING FOCUS`
+<br/>
 
 <table>
 <tr>
-<td align="center" width="25%">
 
-### 🧠
+<td align="center" width="33%">
 
-**AI / ML**
+### AI / ML
 
-LLMs
-RAG
-NLP
-Deep Learning
-Model Development
+<br/>
 
-</td>
+`Machine Learning`
 
-<td align="center" width="25%">
+`Deep Learning`
 
-### ⚙️
+`LLMs`
 
-**BACKEND**
+`RAG`
 
-FastAPI
-Node.js
-Express
-Spring Boot
-REST APIs
+`NLP`
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🌐
+### SOFTWARE
 
-**FRONTEND**
+<br/>
 
-React
-Vite
-Tailwind
-JavaScript
-Responsive UI
+`Backend`
+
+`APIs`
+
+`Real-Time Systems`
+
+`System Design`
+
+`Full Stack`
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🏗️
+### PRODUCT
 
-**SYSTEMS**
+<br/>
 
-Real-Time
-WebSockets
-Databases
-APIs
-System Design
+`React`
+
+`FastAPI`
+
+`Node.js`
+
+`Databases`
+
+`Docker`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ⚡ TECHNOLOGY
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,vite,nodejs,express,fastapi,spring&theme=dark" alt="Technology Stack"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,pytorch,tensorflow,git,github,docker,postman&theme=dark" alt="Technology Stack"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HuggingFace-020617?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Ollama-020617?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🚀 DEVELOPMENT
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+**01**
+
+<br/>
+
+### LEARN
+
+Understand
+Explore
+Question
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+**02**
+
+<br/>
+
+### BUILD
+
+Design
+Implement
+Ship
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+**03**
+
+<br/>
+
+### EXPERIMENT
+
+Test
+Measure
+Break
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+**04**
+
+<br/>
+
+### IMPROVE
+
+Refactor
+Optimize
+Repeat
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## `GITHUB`
+<br/>
+
+---
 
 <div align="center">
 
-<a href="https://github.com/Vanshika-devi">
+## 📈 ACTIVITY
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Vanshika's GitHub Stats"/>
+<br/>
 
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-devi&bg_color=0D1117&color=94A3B8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
-<a href="https://github.com/Vanshika-devi">
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" alt="Vanshika's Top Languages"/>
+<br/>
 
-</a>
+---
+
+<div align="center">
+
+### `CURIOUS BY NATURE • ENGINEERED BY PRACTICE`
+
+<br/>
+
+<sub>AI / ML · Software Engineering · Continuous Learning</sub>
 
 <br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-### LEARN → BUILD → EXPERIMENT → IMPROVE
-
-<br/>
-
-<sub>Always learning. Always building.</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0369a1,45:0c4a6e,75:0f172a,100:020617" width="100%"/>
 
