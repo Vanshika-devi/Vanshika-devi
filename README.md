@@ -4,13 +4,9 @@
 
 ### `Software Engineer` · `AI/ML Engineer` · `LLM Engineer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems;Engineering+LLMs+%26+RAG+Applications;Building+Real-Time+AI+Experiences;AI+%C3%97+Software+Engineering+%C3%97+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Machine+Learning;Real-Time+AI+%7C+Backend+Engineering;Turning+Ideas+into+Intelligent+Systems" />
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vanshika-devi-672859338/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-61%2B%20Solved-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Vanshika_devi/)
@@ -19,23 +15,30 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 `whoami`
 
-Computer Science student focused on **Software Engineering & Artificial Intelligence**.
+> Computer Science student building at the intersection of **AI × Software Engineering × Systems**.
 
 I build **LLM applications, RAG systems, ML solutions, backend services, and real-time AI applications**, while exploring **distributed systems, MLOps, and system design**.
 
+<div align="center">
+
 ```text
-        ┌─────────────────────────────────────┐
-        │        VANSHIKA'S ENGINEERING       │
-        ├─────────────────────────────────────┤
-        │  🧠 AI / ML      → Intelligence     │
-        │  🤖 LLMs / RAG   → AI Applications  │
-        │  ⚡ Backend      → Scalable APIs     │
-        │  🎨 Frontend     → User Experience   │
-        │  🌐 Systems      → Distributed Apps  │
-        └─────────────────────────────────────┘
+        ┌─────────────────────────────────────────┐
+        │        ⚡ AI ENGINEERING MODE            │
+        ├─────────────────────────────────────────┤
+        │                                         │
+        │   🧠  Intelligence   →  ML • LLMs       │
+        │   🔎  Knowledge      →  RAG • Agents    │
+        │   ⚡  Real-Time      →  Streaming       │
+        │   ⚙️  Backend        →  APIs • Systems  │
+        │   🎨  Frontend       →  React • UI      │
+        │   ☁️  Infrastructure →  Docker • Git   │
+        │                                         │
+        └─────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
@@ -43,7 +46,7 @@ I build **LLM applications, RAG systems, ML solutions, backend services, and rea
 
 ### Web Developer Intern — NexTech Innovation
 
-Contributed to a **production AI Voice Calling Platform** involving backend services, real-time communication and AI-powered conversations.
+Contributed to a **production AI Voice Calling Platform**, working across backend services, real-time communication and AI-powered conversation workflows.
 
 `FastAPI` `PostgreSQL` `WebSockets` `Twilio` `LLMs` `RAG`
 
@@ -75,7 +78,7 @@ Contributed to a **production AI Voice Calling Platform** involving backend serv
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### 🧠 AI / ML / LLM
+### 🧠 AI / ML / GenAI
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
@@ -99,19 +102,14 @@ Contributed to a **production AI Voice Calling Platform** involving backend serv
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Data & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-
-### 🛠️ Tools & Infrastructure
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
@@ -122,19 +120,17 @@ Contributed to a **production AI Voice Calling Platform** involving backend serv
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────╮
-│              🚀 VANSHIKA'S LAB               │
-├──────────────────────────────────────────────┤
-│                                              │
-│   🛡️  Aegis AI     ███████████████░░  AI    │
-│   🧬  MetaForge    ████████████░░░░░  ML    │
-│   🌌  AetherOS     ████████░░░░░░░░░  SYS   │
-│   ⏳  Chronos      ██████░░░░░░░░░░░  AI    │
-│                                              │
-╰──────────────────────────────────────────────╯
+╭────────────────────────────────────────────────╮
+│              🚀 VANSHIKA'S LAB                 │
+├────────────────────────────────────────────────┤
+│                                                │
+│  🛡️  Aegis AI    ███████████████░░   AI       │
+│  🧬  MetaForge   ████████████░░░░░   ML       │
+│  🌌  AetherOS    █████████░░░░░░░░   Systems  │
+│  ⏳  Chronos     ███████░░░░░░░░░░   AI       │
+│                                                │
+╰────────────────────────────────────────────────╯
 ```
-
-**AI Engineering · Machine Learning · LLMs · Full Stack · Distributed Systems · MLOps**
 
 </div>
 
@@ -142,12 +138,12 @@ Contributed to a **production AI Voice Calling Platform** involving backend serv
 
 <div align="center">
 
-### ⚡ BUILD • EXPERIMENT • LEARN • SHIP
+### `BUILD → EXPERIMENT → LEARN → SHIP`
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<br>
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-**Always Learning • Always Building • Always Improving**
+**AI Engineering • Machine Learning • LLMs • Full Stack • Distributed Systems • MLOps**
 
 </div>
