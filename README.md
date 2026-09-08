@@ -1,15 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=VANSHIKA%20DEVI&fontSize=44&fontAlignY=38&fontColor=ffffff&animation=fadeIn&gradient=true&customColorList=6,11,20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=VANSHIKA%20DEVI&fontSize=48&fontAlignY=38&fontColor=ffffff&animation=twinkling&gradient=true&customColorList=2,11,20"/>
 
-### `Software Engineer` · `AI/ML Engineer` · `LLM Engineer`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Systems;LLMs+%7C+RAG+%7C+Machine+Learning;Real-Time+AI+%7C+Backend+%7C+Full+Stack;Researching.+Engineering.+Shipping."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI%2FML+%26+LLM+Engineer;Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+ML+%7C+Real-Time+AI;Engineering+Systems+That+Think%2C+Learn+%26+Scale"/>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vanshika-devi-672859338/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-61%2B-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Vanshika_devi/)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/vanshika-devi-672859338/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Vanshika_devi/">
+<img src="https://img.shields.io/badge/LEETCODE-61%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 <br><br>
 
@@ -21,17 +27,33 @@
 
 <div align="center">
 
-### `// SYSTEM STATUS`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=500&color=7DD3FC&center=true&vCenter=true&width=620&lines=%5B+BOOTING+AI+ENGINEERING+ENVIRONMENT...+%5D;%5B+LLM+PIPELINE+++++++++++++ONLINE+%5D;%5B+RAG+ENGINE++++++++++++++++ONLINE+%5D;%5B+REAL-TIME+SYSTEMS++++++++++ONLINE+%5D;%5B+BUILD+STATUS++++++++++++++++ACTIVE+%5D"/>
+```text
+┌─────────────────────────────────────────────────────────┐
+│                    VANSHIKA.DEV                         │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  $ ./initialize_ai_engineer                            │
+│                                                         │
+│  [✓] Machine Learning                                  │
+│  [✓] Large Language Models                             │
+│  [✓] Retrieval Augmented Generation                    │
+│  [✓] Backend Engineering                               │
+│  [✓] Full-Stack Development                            │
+│  [✓] Real-Time AI Systems                              │
+│  [→] Distributed Systems                               │
+│  [→] MLOps                                             │
+│                                                         │
+│  STATUS: BUILDING                                      │
+└─────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ## 🧠 About Me
 
-Computer Science student working at the intersection of **Artificial Intelligence, Software Engineering & Systems**.
+Computer Science student focused on **AI × Software Engineering × Systems**.
 
-I build **LLM applications, RAG systems, ML solutions, backend services and real-time AI applications**, while exploring **distributed systems, MLOps and system design**.
+I build **LLM applications, RAG systems, ML solutions, backend services and real-time AI applications** — with a growing focus on **distributed systems, MLOps and system design**.
 
 ---
 
@@ -39,13 +61,13 @@ I build **LLM applications, RAG systems, ML solutions, backend services and real
 
 ### Web Developer Intern · NexTech Innovation
 
-Worked on a **production AI Voice Calling Platform**, contributing to backend services, real-time communication and AI-powered conversation workflows.
+Contributed to a **production AI Voice Calling Platform**, working across backend services, real-time communication and AI-powered conversation workflows.
 
 `FastAPI` `PostgreSQL` `WebSockets` `Twilio` `LLMs` `RAG`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -55,9 +77,9 @@ Worked on a **production AI Voice Calling Platform**, contributing to backend se
 
 ### 🛡️ Aegis AI
 
-**Autonomous AI Research & ML Engineering**
+**Autonomous AI Research & ML Engineering Platform**
 
-`AI Agents` `ML` `LLMs` `MLOps`
+`AI Agents` · `ML` · `LLMs` · `MLOps`
 
 </td>
 
@@ -67,7 +89,7 @@ Worked on a **production AI Voice Calling Platform**, contributing to backend se
 
 **Self-Improving ML Research System**
 
-`ML` `Experiments` `LLMs` `Research`
+`ML` · `Experiments` · `LLMs` · `Research`
 
 </td>
 </tr>
@@ -79,7 +101,7 @@ Worked on a **production AI Voice Calling Platform**, contributing to backend se
 
 **Real-Time Conversational AI**
 
-`FastAPI` `WebSockets` `RAG`
+`FastAPI` · `WebSockets` · `RAG`
 
 </td>
 
@@ -87,9 +109,9 @@ Worked on a **production AI Voice Calling Platform**, contributing to backend se
 
 ### 📄 Professional RAG
 
-**Document Intelligence Platform**
+**Production-Grade Document Intelligence**
 
-`React` `LangChain` `ChromaDB`
+`React` · `LangChain` · `ChromaDB` · `Ollama`
 
 </td>
 </tr>
@@ -119,9 +141,9 @@ Worked on a **production AI Voice Calling Platform**, contributing to backend se
 
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,huggingface"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 
 ### 🗄️ Databases
 
@@ -135,24 +157,29 @@ Worked on a **production AI Voice Calling Platform**, contributing to backend se
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
 ## 🔬 Currently Building
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────┐
-│                 VANSHIKA'S LAB                  │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  🛡️  Aegis AI      → Autonomous AI             │
-│  🧬  MetaForge     → ML Research               │
-│  🌌  AetherOS      → AI Systems                 │
-│  ⏳  Chronos       → Intelligent Systems        │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=Designing+systems...;Training+models...;Building+agents...;Engineering+the+future..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+Aegis+AI.............+Research+Engine;%3E+MetaForge............+ML+Experimentation;%3E+AetherOS.............+AI+Systems;%3E+Chronos..............+Intelligent+Systems"/>
 
 </div>
 
@@ -160,15 +187,18 @@ Worked on a **production AI Voice Calling Platform**, contributing to backend se
 
 <div align="center">
 
-### `AI × SOFTWARE × SYSTEMS`
+### 🌐 ENGINEERING FOCUS
 
-<br>
+`AI Engineering` · `Machine Learning` · `LLMs` · `RAG`
 
-**Machine Learning** · **LLMs** · **RAG** · **Full Stack**
-**Backend Engineering** · **Real-Time AI** · **Distributed Systems** · **MLOps**
+`Full Stack` · `Backend Systems` · `Real-Time AI` · `Distributed Systems` · `MLOps`
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn&gradient=true&customColorList=6,11,20"/>
+### ⚡ `BUILD` → `EXPERIMENT` → `LEARN` → `IMPROVE` → `SHIP`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&gradient=true&customColorList=2,11,20"/>
 
 </div>
