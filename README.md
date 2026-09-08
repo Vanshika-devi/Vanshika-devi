@@ -1,217 +1,265 @@
 <div align="center">
 
-<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%20%E2%80%A2%20%20SOFTWARE%20ENGINEER&descAlignY=59&descSize=16&color=0:020617,45:0f172a,75:0c4a6e,100:0369a1"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%20%C2%B7%20%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=17&color=0:0f172a,50:111827,100:0c4a6e"/>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=Building+intelligent+software+systems;AI+%C3%97+Software+%C3%97+Systems;Machine+Learning+%7C+LLMs+%7C+Full+Stack;Turning+ideas+into+engineered+systems" />
 
-<!-- TYPING ANIMATION -->
+<br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Building+intelligent+software+systems;AI+%2F+ML+%2F+LLM+Engineering;Full-Stack+%7C+Backend+%7C+AI;Turning+ideas+into+working+systems" alt="Typing animation"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&style=for-the-badge&color=38BDF8&labelColor=020617"/>
 
-<br/><br/>
-
-<!-- PROFILE VIEWS -->
-
-<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=for-the-badge&color=38BDF8&labelColor=0f172a"/>
-
-<br/><br/>
-
-<!-- SOCIALS -->
+<br><br>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/LEETCODE-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 &nbsp;
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 </div>
 
-<br/>
-
----
-
-## `01` — WHO AM I?
-
-```text
-Vanshika Devi
-├── Computer Science & Information Technology
-├── AI / ML Engineer
-├── Software Engineer
-└── Systems Thinker
-```
-
-> I enjoy building systems where **AI meets real software** —
-> from intelligent models and LLM pipelines to scalable backend
-> services and polished user interfaces.
+<br>
 
 <div align="center">
 
-**AI × SOFTWARE × SYSTEMS**
+### `ENGINEERING INTELLIGENCE`
+
+**AI/ML**  •  **BACKEND**  •  **FRONTEND**  •  **SYSTEMS**
 
 </div>
 
----
-
-## `02` — TECHNOLOGY
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark"/>
-</p>
-
-### AI / ML / GenAI
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-0f172a?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/Ollama-0f172a?style=for-the-badge&logo=ollama&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/RAG-0f172a?style=for-the-badge&logoColor=38BDF8"/>
-
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm&theme=dark"/>
-</p>
+<br>
 
 ---
 
-## `03` — ENGINEERING FOCUS
+<div align="center">
+
+## ⚡ THE ENGINEER
+
+</div>
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
 ### 🧠 AI / ML
 
 Machine Learning
 Deep Learning
-LLMs
-RAG
+LLMs & Generative AI
+RAG Systems
 NLP
-Model experimentation
+Model Experimentation
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
 ### ⚙️ SOFTWARE
 
 Backend Engineering
-REST APIs
-Real-time Systems
-Full-Stack Development
+API Development
+Real-Time Systems
+Full-Stack Applications
 System Design
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔬 ENGINEERING
-
-Experimentation
-Automation
-Optimization
-Developer Tools
-Intelligent Systems
+Developer Tooling
 
 </td>
 </tr>
 </table>
 
----
-
-## `04` — GITHUB ACTIVITY
+<br>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8"/>
+> **I like understanding how intelligent systems work —
+> then turning that understanding into software.**
 
 </div>
 
-<br/>
+<br>
+
+---
 
 <div align="center">
+
+## 🧩 TECHNOLOGY MATRIX
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**LANGUAGES**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark"/>
+
+</td>
+
+<td align="center" width="25%">
+
+**FRONTEND**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark"/>
+
+</td>
+
+<td align="center" width="25%">
+
+**BACKEND**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark"/>
+
+</td>
+
+<td align="center" width="25%">
+
+**DATA**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**AI / ML**
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HuggingFace-020617?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Ollama-020617?style=for-the-badge&logo=ollama&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/RAG-020617?style=for-the-badge&logoColor=38BDF8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**ENGINEERING TOOLS**
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm&theme=dark"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ◈ ENGINEERING MINDSET
+
+</div>
+
+<div align="center">
+
+```text
+        LEARN
+          │
+          ▼
+       EXPERIMENT
+          │
+          ▼
+        BUILD
+          │
+          ▼
+       MEASURE
+          │
+          ▼
+       IMPROVE
+          │
+          └───────────────► REPEAT
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Curiosity → Engineering → Iteration**
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/>
+
+  
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=94a3b8&line=38bdf8&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## `05` — CURRENTLY
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&height=35&lines=Learning+deeply.;Building+consistently.;Experimenting+with+AI.;Engineering+better+systems."/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```text
-LEARN  →  BUILD  →  EXPERIMENT  →  IMPROVE
-```
-
-</div>
+<br>
 
 ---
 
 <div align="center">
 
-### `AI × SOFTWARE × SYSTEMS`
+## `01 — THINK`
 
-<sub>Always learning. Always building.</sub>
+**Understand the problem.**
 
-<br/><br/>
+   →   
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0c4a6e,50:111827,100:0f172a"/>
+## `02 — BUILD`
+
+**Turn ideas into systems.**
+
+   →   
+
+## `03 — EVOLVE`
+
+**Make them better.**
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0369a1,40:0c4a6e,70:0f172a,100:020617"/>
 
 </div>
