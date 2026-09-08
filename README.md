@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:020617,45:0f172a,75:0c4a6e,100:0369a1" width="100%"/>
