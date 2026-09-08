@@ -1,25 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:020617,50:0f172a,100:0369a1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:020617,45:0f172a,75:0c4a6e,100:0369a1" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/Vanshika-devi">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=AI%20%2F%20ML%20Engineer;Software%20Engineer;Building%20Intelligent%20Systems;AI%20%C3%97%20Software%20%C3%97%20Systems" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;AI%2FML+%26+LLM+Engineer;Building+Production-Grade+AI+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Real-Time+AI" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=for-the-badge&color=0369A1"/>
+<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=for-the-badge&color=0ea5e9&labelColor=020617" alt="Profile Views"/>
 
 <br/><br/>
 
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/vanshika-devi-672859338/)">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<a href="https://github.com/Vanshika-devi">
+<img src="https://img.shields.io/badge/GitHub-Vanshika--devi-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Vanshika-devi">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<a href="https://www.linkedin.com/in/vanshika-devi-672859338/">
+<img src="https://img.shields.io/badge/LinkedIn-Vanshika%20Devi-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
+
+<a href="https://leetcode.com/u/Vanshika_devi/">
+<img src="https://img.shields.io/badge/LeetCode-Vanshika__devi-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.freecodecamp.org/vanshika-fullstack-aiml">
+<img src="https://img.shields.io/badge/freeCodeCamp-Profile-020617?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 </a>
 
 </div>
@@ -28,63 +34,131 @@
 
 <div align="center">
 
-### Building at the intersection of **Artificial Intelligence & Software Engineering**
+### AI × SOFTWARE × SYSTEMS
 
-<br/>
-
-`AI/ML`   `LLMs`   `Backend`   `Frontend`   `Systems`
+**Artificial Intelligence**   •   **Machine Learning**   •   **Software Engineering**
 
 </div>
-
-<br/>
 
 ---
 
+## `ABOUT`
+
+I'm a Computer Science student focused on **AI/ML and Software Engineering**.
+
+I enjoy building systems where intelligent models meet real software — from **LLM and RAG applications** to **backend services, real-time systems, and full-stack interfaces**.
+
+My engineering interests revolve around:
+
+`AI Engineering` · `Machine Learning` · `LLMs` · `RAG` · `Backend` · `Full Stack` · `Systems`
+
+---
+
+## `STACK`
+
 <div align="center">
 
-## ABOUT
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python Java JavaScript"/>
+
+<br/><br/>
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML CSS React Tailwind Vite"/>
+
+<br/><br/>
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" alt="Node Express FastAPI Spring"/>
+
+<br/><br/>
+
+### AI / ML / GENAI
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch TensorFlow Scikit Learn"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-020617?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Ollama-020617?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+
+<br/><br/>
+
+### DATABASES
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="PostgreSQL MongoDB MySQL"/>
+
+<br/><br/>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm&theme=dark" alt="Git GitHub Docker Postman NPM"/>
 
 </div>
 
+---
+
+## `ENGINEERING FOCUS`
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center" width="25%">
 
-### Hi, I'm Vanshika 👋
+### 🧠
 
-I'm a Computer Science and Information Technology student interested in building **intelligent, reliable and useful software systems**.
+**AI / ML**
 
-My main interests sit at the intersection of:
-
-* 🧠 Artificial Intelligence
-* ⚙️ Software Engineering
-* 🔬 Machine Learning
-* 🌐 Full-Stack Development
-* 🏗️ Systems & Backend Engineering
-
-I enjoy going from **understanding → experimenting → engineering → improving**.
+LLMs
+RAG
+NLP
+Deep Learning
+Model Development
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<td align="center" width="25%">
 
-```text
-       ┌───────────────┐
-       │      AI       │
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │   SOFTWARE    │
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │    SYSTEMS    │
-       └───────────────┘
-```
+### ⚙️
 
-**AI × SOFTWARE × SYSTEMS**
+**BACKEND**
+
+FastAPI
+Node.js
+Express
+Spring Boot
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**FRONTEND**
+
+React
+Vite
+Tailwind
+JavaScript
+Responsive UI
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+**SYSTEMS**
+
+Real-Time
+WebSockets
+Databases
+APIs
+System Design
 
 </td>
 </tr>
@@ -92,43 +166,25 @@ I enjoy going from **understanding → experimenting → engineering → improvi
 
 ---
 
+## `GITHUB`
+
 <div align="center">
 
-## TECH STACK
+<a href="https://github.com/Vanshika-devi">
 
-### Languages
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Vanshika's GitHub Stats"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Languages"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/Vanshika-devi">
 
-### Frontend
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" alt="Vanshika's Top Languages"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend"/>
-
-<br/><br/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" alt="Backend"/>
+</a>
 
 <br/><br/>
 
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI ML"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-0F172A?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama"/>
-
-<br/><br/>
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,postman&theme=dark" alt="Databases and tools"/>
+<img src="https://streak-stats.demolab.com/?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak"/>
 
 </div>
 
@@ -136,47 +192,11 @@ I enjoy going from **understanding → experimenting → engineering → improvi
 
 <div align="center">
 
-## GITHUB
+### LEARN → BUILD → EXPERIMENT → IMPROVE
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats"/>
-
-  
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ENGINEERING PHILOSOPHY
-
-<br/>
-
-**Learn deeply.**
-
-↓
-
-**Build deliberately.**
-
-↓
-
-**Experiment constantly.**
-
-↓
-
-**Improve continuously.**
-
-<br/><br/>
-
-`Curiosity → Engineering → Iteration`
+<sub>Always learning. Always building.</sub>
 
 </div>
 
@@ -184,6 +204,6 @@ I enjoy going from **understanding → experimenting → engineering → improvi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0369a1,50:0f172a,100:020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0369a1,45:0c4a6e,75:0f172a,100:020617" width="100%"/>
 
 </div>
