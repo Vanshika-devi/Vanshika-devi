@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;AI%2FML+%26+LLM+Enthusist;Building+Production-Grade+Software+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Real-Time+AI" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;AI%2FML+%26+LLM+Enthusiast;Building+Production-Grade+Software+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Real-Time+AI" alt="Typing SVG"/>
 
 <br/>
 
@@ -34,7 +34,7 @@
 Vanshika Devi
 ├── Computer Science & Information Technology
 ├── Software Engineer
-├── AI / ML Enthusist
+├── AI / ML Enthusiast
 └── Systems Thinker
 ````
 
@@ -245,11 +245,10 @@ Repeat
 
 <br/>
 
-<sub>AI / ML · Software Engineering · Continuous Learning</sub>
+<sub> Software Engineering · AI/ML Enthusiast · Continuous Learning</sub>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0369a1,45:0c4a6e,75:0f172a,100:020617" width="100%"/>
 
 </div>
-```
