@@ -254,4 +254,3 @@ Repeat
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0369a1,45:0c4a6e,75:0f172a,100:020617" width="100%"/>
 
 </div>
- improve it
