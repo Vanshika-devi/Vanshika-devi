@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:020617,45:0f172a,75:0c4a6e,100:0369a1" width="100%"/>
 
-<br/>
+<br/><br/>
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;AI%2FML+%26+LLM+Enthusiast;Building+Production-Grade+Software+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Real-Time+AI" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 <a href="https://github.com/Vanshika-devi">
 <img src="https://img.shields.io/badge/GitHub-Vanshika--devi-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
