@@ -135,7 +135,8 @@ Improve
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,pytorch,git,github,postman,hugging-face,ollama,langchain,Scikit-learn,numpy,pandas&theme=dark" alt="Technology Stack"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,pytorch,git,github,postman&theme=dark" alt="Technology Stack"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 <br/>
 
@@ -252,3 +253,4 @@ Repeat
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0369a1,45:0c4a6e,75:0f172a,100:020617" width="100%"/>
 
 </div>
+ improve it
