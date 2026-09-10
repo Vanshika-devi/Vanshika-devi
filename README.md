@@ -3,9 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:020617,45:0f172a,75:0c4a6e,100:0369a1" width="100%"/>
 
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;AI%2FML+%26+LLM+Enthusiast;Building+Production-Grade+Software+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Real-Time+AI" alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;AI%2FML+%26+LLM+Enthusiast;Building+Intelligent+Software+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Real-Time+AI" alt="Typing SVG"/>
 
 <br/><br/>
+
 <a href="https://github.com/Vanshika-devi">
 <img src="https://img.shields.io/badge/GitHub-Vanshika--devi-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -18,9 +20,9 @@
 <img src="https://img.shields.io/badge/freeCodeCamp-Profile-020617?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=for-the-badge&color=0ea5e9&labelColor=020617"/>
+<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=for-the-badge&color=0ea5e9&labelColor=020617" alt="Profile Views"/>
 
 </div>
 
@@ -97,12 +99,22 @@ I enjoy going beyond the abstraction — understanding how systems work, measuri
 
 **Real-Time AI Voice Calling & Lead Management System**
 
-Built an AI-powered calling system for **automated outbound conversations and lead management**, integrating telephony, conversational AI, backend orchestration, and retrieval-based context.
+Built an AI-powered outbound calling system combining **telephony, conversational AI, backend orchestration, and retrieval-based context**.
 
-The system connects **Twilio** with **ElevenLabs Conversational AI** to enable real-time voice interactions, while a **FastAPI backend** manages leads, campaigns, call jobs, conversation history, service information, and contextual data used during conversations.
+Integrated **Twilio** with **ElevenLabs Conversational AI** for real-time voice interactions, with a **FastAPI backend** managing leads, campaigns, call jobs, conversation history, service information, and contextual data.
 
 `React` · `Vite` · `Tailwind` · `FastAPI` · `Python`
-`Twilio` · `ElevenLabs` · `RAG` · `PostgreSQL/Supabase`
+`Twilio` · `ElevenLabs` · `RAG` · `Supabase/PostgreSQL`
+
+<br/>
+
+### 🔬 MetaForge
+
+**Self-Improving Machine Learning Research System**
+
+A research-oriented ML system exploring **automated experimentation, evaluation, failure analysis, experiment tracking, and iterative model improvement**.
+
+`Python` · `PyTorch` · `Scikit-Learn` · `MLflow` · `FastAPI` · `PostgreSQL`
 
 <br/>
 
@@ -110,23 +122,27 @@ The system connects **Twilio** with **ElevenLabs Conversational AI** to enable r
 
 **Full-Stack Resume Intelligence Platform**
 
-AI-assisted resume analysis with a modern web interface and backend processing pipeline.
+AI-assisted resume analysis platform combining a modern web interface with a Python backend and intelligent processing pipeline.
 
 `React` · `Tailwind` · `FastAPI` · `Python` · `LLMs`
+
+<br/>
 
 ### 📚 Professional RAG PDF Chatbot
 
 **Document Intelligence & Retrieval System**
 
-A RAG application for querying documents using semantic retrieval and locally hosted LLMs.
+RAG-based document assistant using semantic retrieval and locally hosted LLMs for contextual question answering.
 
 `React` · `FastAPI` · `LangChain` · `ChromaDB` · `Ollama`
+
+<br/>
 
 ### 🧩 Full-Stack Quiz Application
 
 **MERN Application with Authentication & Leaderboards**
 
-Full-stack quiz platform featuring authentication, scoring, and competitive leaderboards.
+Full-stack quiz platform featuring authentication, scoring, quiz management, and competitive leaderboards.
 
 `MongoDB` · `Express` · `React` · `Node.js` · `JWT`
 
