@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/freeCodeCamp-Profile-020617?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=for-the-badge&color=0ea5e9&labelColor=020617"/>
 
@@ -51,12 +51,41 @@ I enjoy going beyond the abstraction — understanding how systems work, measuri
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,tailwind,vite,nodejs,express,fastapi,spring,postgres,mongodb,mysql,docker,git,github,postman,pytorch&theme=dark"/>
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark"/>
 
 <br/><br/>
 
-`NumPy` · `Pandas` · `Scikit-Learn` · `LangChain` · `Hugging Face`
-`Ollama` · `ChromaDB` · `MLflow`
+### WEB & BACKEND
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nodejs,express,fastapi,spring&theme=dark"/>
+
+<br/><br/>
+
+### DATABASES & TOOLS
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,postman&theme=dark"/>
+
+<br/><br/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
 </div>
 
