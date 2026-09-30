@@ -78,36 +78,11 @@ Currently focused on **AI/ML engineering, backend development, DSA, and building
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 MetaForge
-
-**Self-Improving Machine Learning Research System**
-
-ML experimentation platform focused on automated data analysis, model experimentation, evaluation, and iterative improvement.
-
-`Python` `ML` `AutoML`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌙 LUNARIS
-
-**Multimodal Lunar Intelligence**
-
-AI system for lunar image correspondence and terrain intelligence.
-
-`Computer Vision` `Multimodal AI`
-
-</td>
-</tr>
 
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 VERITAS
+### 🔎 Professional RAG CHATBOT
 
 **Evidence-Grounded Document Intelligence**
 
