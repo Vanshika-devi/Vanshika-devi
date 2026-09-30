@@ -61,7 +61,7 @@ Currently focused on **AI/ML engineering, backend development, DSA, and building
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface&theme=light"/>
 
 <br/><br/>
 
