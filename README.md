@@ -61,12 +61,15 @@ Currently focused on **AI/ML engineering, backend development, DSA, and building
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,huggingface,langchain,pandas,numpy&theme=light"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
 </div>
 
