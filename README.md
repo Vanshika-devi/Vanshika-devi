@@ -1,256 +1,160 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VANSHIKA%20DEVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:020617,45:0f172a,75:0c4a6e,100:0369a1" width="100%"/>
+# VANSHIKA DEVI
+
+### Software Engineer · AI/ML · LLM Systems
+
+Building **intelligent software systems** with a focus on backend engineering, machine learning, and LLM applications.
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;AI%2FML+%26+LLM+Enthusiast;Building+Production-Grade+Software+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Real-Time+AI" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=for-the-badge&color=0ea5e9&labelColor=020617" alt="Profile Views"/>
-
-<br/><br/>
 
 <a href="https://github.com/Vanshika-devi">
-<img src="https://img.shields.io/badge/GitHub-Vanshika--devi-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/vanshika-devi-672859338/">
-<img src="https://img.shields.io/badge/LinkedIn-Vanshika%20Devi-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.freecodecamp.org/vanshika-fullstack-aiml">
+<img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 </a>
 
-<a href="https://www.freecodecamp.org/vanshika-fullstack-aiml"> <img src="https://img.shields.io/badge/freeCodeCamp-Profile-020617?style=for-the-badge&logo=freecodecamp&logoColor=white"/> </a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=flat-square&color=2563EB"/>
 
 </div>
 
-<br/>
-
 ---
 
-## `WHO AM I?`
+## 👋 About Me
+
+I'm a **Computer Science & Information Technology student** interested in building systems where **software engineering meets AI**.
 
 ```text
-Vanshika Devi
-├── Computer Science & Information Technology
-├── Software Engineer
-├── AI / ML Enthusiast
-└── Systems Thinker
-````
+Software Engineering  →  Backend • Full Stack • Systems
+AI / ML               →  ML • LLMs • RAG • NLP
+```
 
-I enjoy building systems where **AI meets real software** —
-from intelligent models and LLM pipelines to scalable backend
-services and polished user interfaces.
-
-<br/>
-
-<div align="center">
-
-`Software Engineering`   ·   `Machine Learning`   ·   `LLMs`
-`RAG`   ·   `Backend`   ·   `Full Stack`   ·   `Systems`
-
-</div>
-
-<br/>
+Currently focused on **AI/ML engineering, backend development, DSA, and building production-oriented projects.**
 
 ---
 
+## 🛠️ Tech Stack
+
 <div align="center">
 
-## `WHAT I CARE ABOUT`
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=light"/>
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,express,fastapi,spring&theme=light"/>
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,postman&theme=light"/>
+
+**AI / ML**
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="25%">
+### 🧠 MetaForge
 
-### 🧠
+**Self-Improving Machine Learning Research System**
 
-**INTELLIGENCE**
+ML experimentation platform focused on automated data analysis, model experimentation, evaluation, and iterative improvement.
 
-ML
-LLMs
-RAG
-NLP
+`Python` `ML` `AutoML`
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### ⚙️
+### 🌙 LUNARIS
 
-**ENGINEERING**
+**Multimodal Lunar Intelligence**
 
-Backend
-APIs
-Real-Time
-Systems
+AI system for lunar image correspondence and terrain intelligence.
 
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-**INTERFACES**
-
-React
-Frontend
-UX
-Full Stack
+`Computer Vision` `Multimodal AI`
 
 </td>
-
-<td align="center" width="25%">
-
-### 🔬
-
-**EXPERIMENTATION**
-
-Learn
-Build
-Measure
-Improve
-
-</td>
-
 </tr>
-</table>
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## ⚡ TECHNOLOGY
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,vite,nodejs,express,fastapi,spring&theme=dark" alt="Technology Stack"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,pytorch,git,github,postman&theme=dark" alt="Technology Stack"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<br/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🚀 DEVELOPMENT
-
-<br/>
-
-<table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center">
+### 🔎 VERITAS
 
-**01**
+**Evidence-Grounded Document Intelligence**
 
-<br/>
+RAG-based system for retrieving information from documents and grounding responses in evidence.
 
-### LEARN
-
-Understand
-Explore
-Question
+`RAG` `LLMs` `NLP`
 
 </td>
 
-<td align="center">→</td>
+<td width="50%" valign="top">
 
-<td align="center">
+### ☎️ NexTech AI Voice
 
-**02**
+**Real-Time AI Voice & CRM Platform**
 
-<br/>
+Voice AI platform combining real-time communication, speech processing, LLMs, and CRM workflows.
 
-### BUILD
-
-Design
-Implement
-Ship
+`FastAPI` `WebSockets` `LLMs`
 
 </td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-**03**
-
-<br/>
-
-### EXPERIMENT
-
-Test
-Measure
-Break
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-**04**
-
-<br/>
-
-### IMPROVE
-
-Refactor
-Optimize
-Repeat
-
-</td>
-
 </tr>
 </table>
 
+---
+
+## ⚡ What I Build
+
+<div align="center">
+
+`AI / ML`   `LLM Applications`   `RAG`   `Backend Systems`
+
+`Full Stack`   `Real-Time AI`   `Computer Vision`   `Developer Tools`
+
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-## 📈 ACTIVITY
+### Learn → Build → Measure → Improve
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&v=2" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### `CURIOUS BY NATURE • ENGINEERED BY PRACTICE`
-
-<br/>
-
-<sub> Software Engineering · AI/ML Enthusiast · Continuous Learning</sub>
+<img src="https://streak-stats.demolab.com/?user=Vanshika-devi&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0369a1,45:0c4a6e,75:0f172a,100:020617" width="100%"/>
+**Building intelligent systems, one iteration at a time.**
 
 </div>
