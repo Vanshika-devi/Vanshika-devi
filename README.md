@@ -2,11 +2,20 @@
 
 # 👋 Hi, I'm Vanshika Devi
 
-### CS & IT Student • Full-Stack Developer • AI/ML Enthusiast
+<p>
+  <img src="https://img.shields.io/badge/CS%20%26%20IT-Student-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-3178C6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Engineering-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software-Engineering-6C63FF?style=for-the-badge"/>
+</p>
 
-I'm a Computer Science student building **AI/ML systems, intelligent applications, scalable backends, and full-stack software**.
+### Full-Stack Developer • AI/ML Enthusiast
 
-Currently focused on **Software Engineering, Generative AI, LLMs, Backend Engineering, and DSA**.
+I'm a Computer Science student building **AI/ML systems, intelligent applications,
+scalable backends, Distributed systems and full-stack software**.
+
+Currently focused on **Software Engineering, Generative AI, LLMs,
+Backend Engineering, and DSA**.
 
 ---
 
@@ -41,21 +50,38 @@ Currently focused on **Software Engineering, Generative AI, LLMs, Backend Engine
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|:---:|:---|
-| 🛡️ **VERITAS** | Evidence-Grounded Document Intelligence & RAG |
-| 📞 **NexTech AI Voice** | AI Voice Calling & CRM Platform |
+### 🛡️ VERITAS
+
+**Evidence-Grounded Document Intelligence & RAG Platform**
+
+A document intelligence system designed to retrieve relevant evidence
+and generate grounded responses from documents.
+
+`RAG` · `LLMs` · `Embeddings` · `Vector Search` · `FastAPI`
+
+---
+
+### 📞 NexTech AI Voice
+
+**AI Voice Calling & CRM Platform**
+
+A production-oriented AI voice platform combining real-time telephony,
+speech recognition, LLMs, TTS, and CRM workflows.
+
+`FastAPI` · `WebSockets` · `Twilio` · `STT` · `TTS` · `LLMs` · `RAG`
 
 ---
 
@@ -65,7 +91,7 @@ Currently focused on **Software Engineering, Generative AI, LLMs, Backend Engine
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=transparent&hide_border=true" height="170"/>
 
-<br/>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=Vanshika-devi&theme=transparent&hide_border=true" width="70%"/>
 
@@ -87,7 +113,7 @@ Currently focused on **Software Engineering, Generative AI, LLMs, Backend Engine
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
----
+<br><br>
 
 ### 🚀 Build • Measure • Improve
 
