@@ -1,133 +1,86 @@
-<div align="center">
+# 👋 Hi, I'm Vanshika Devi
 
-# VANSHIKA DEVI
+### CS & IT Student • Full-Stack Developer • AI/ML Enthusiast
 
-### Software Engineer · AI/ML · LLM Systems
+I'm a Computer Science student building **AI/ML systems, intelligent applications, scalable backends, and full-stack software**.
 
-Building **intelligent software systems** with a focus on backend engineering, machine learning, and LLM applications.
-
-<br/>
-
-<a href="https://github.com/Vanshika-devi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/vanshika-devi-672859338/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.freecodecamp.org/vanshika-fullstack-aiml">
-<img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Vanshika-devi&label=PROFILE%20VIEWS&style=flat-square&color=2563EB"/>
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Computer Science & Information Technology student** interested in building systems where **software engineering meets AI**.
-
-```text
-Software Engineering  →  Backend • Full Stack • Systems
-AI / ML               →  ML • LLMs • RAG • NLP
-```
-
-Currently focused on **AI/ML engineering, backend development, DSA, and building production-oriented projects.**
+Currently focused on **Software Engineering, Generative AI, LLMs, Backend Engineering, and DSA**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Languages**
+### Full Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=light"/>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend & Backend**
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,express,fastapi,spring&theme=light"/>
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,postman&theme=light"/>
-
-**AI / ML**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-
-</div>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 Professional RAG PDF CHATBOT
-
-**Evidence-Grounded Document Intelligence**
-
-RAG-based system for retrieving information from documents and grounding responses in evidence.
-
-`RAG` `LLMs` `NLP`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☎️ NexTech AI Voice
-
-**Real-Time AI Voice & CRM Platform**
-
-Voice AI platform combining real-time communication, speech processing, LLMs, and CRM workflows.
-
-`FastAPI` `WebSockets` `LLMs`
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---|---|
+| 🛡️ **VERITAS** | Evidence-Grounded Document Intelligence & RAG |
+| 📞 **NexTech AI Voice** | AI Voice Calling & CRM Platform |
 
 ---
 
-## ⚡ What I Build
+## 📊 GitHub
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
 
-`AI / ML`   `LLM Applications`   `RAG`   `Backend Systems`
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Vanshika-devi&theme=transparent&hide_border=true" width="70%"/>
+</p>
 
-`Full Stack`   `Real-Time AI`   `Computer Vision`   `Developer Tools`
+---
 
-</div>
+## 🎯 Current Focus
 
-<br/>
+`Software Engineering` · `DSA` · `Backend` · `System Design`
 
-<div align="center">
+---
 
-### Learn → Build → Measure → Improve
+## 📫 Connect
 
-<br/>
+<a href="https://github.com/Vanshika-devi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=Vanshika-devi&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B"/>
+---
 
-<br/><br/>
-
-**Building intelligent systems, one iteration at a time.**
-
-</div>
+<p align="center">
+<b>🚀 Build • Measure • Improve</b>
+</p>
