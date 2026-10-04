@@ -9,12 +9,12 @@
   <img src="https://img.shields.io/badge/Software-Engineering-6C63FF?style=for-the-badge"/>
 </p>
 
-### Full-Stack Developer • AI/ML Enthusiast
+### 🚀 Software Engineer | AI/ML & Full-Stack
 
 I'm a Computer Science student building **AI/ML systems, intelligent applications,
 scalable backends, Distributed systems and full-stack software**.
 
-Currently focused on **Software Engineering, Generative AI, LLMs,
+Currently focused on **Software Engineering ,AIML , Generative AI, LLMs,
 Backend Engineering, and DSA**.
 
 ---
