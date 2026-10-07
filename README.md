@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Software-Engineering-6C63FF?style=for-the-badge"/>
 </p>
 
-### 🚀 Software Engineer | AI/ML & Full-Stack
+### 🚀 Computer Science Student | AI/ML & Software Engineering | LLMs • RAG • Backend
 
 I'm a Computer Science student building **AI/ML systems, intelligent applications,
 scalable backends, Distributed systems and full-stack software**.
