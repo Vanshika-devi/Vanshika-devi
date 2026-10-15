@@ -74,7 +74,7 @@ and generate grounded responses from documents.
 
 ### 📞 NexTech AI Voice
 
-**AI Voice Calling & CRM Platform**
+**AI Voice Calling & CRM Platform (Internship project) **
 
 A production-oriented AI voice platform combining real-time telephony,
 speech recognition, LLMs, TTS, and CRM workflows.
