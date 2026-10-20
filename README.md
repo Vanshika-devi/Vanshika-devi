@@ -1,108 +1,112 @@
 <div align="center">
 
-<h1>Hi, I'm Vanshika Devi 👋</h1>
+<h1>Vanshika Devi <sup>👋</sup></h1>
 
-### Computer Science & IT · Full-Stack Development · AI / ML
+<samp>CS & IT STUDENT&nbsp; / &nbsp;FULL-STACK DEVELOPER&nbsp; / &nbsp;AI·ML</samp>
 
-Building intelligent applications with thoughtful engineering.
+<br /><br />
 
-[![GitHub](https://img.shields.io/badge/VIEW_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanshika-devi)
+<b>Building software with purpose — from reliable backends to grounded AI applications.</b>
+
+<br />
+
+<a href="https://github.com/Vanshika-devi"><img src="https://img.shields.io/badge/GitHub-View_my_work-171923?style=flat-square&logo=github&logoColor=white" alt="View my GitHub work" /></a>
+&nbsp;<img src="https://img.shields.io/badge/FOCUS-LLMs_%2F_RAG-8B7CF6?style=flat-square" alt="Focus: LLMs and RAG" />
+&nbsp;<img src="https://img.shields.io/badge/BUILDING-BACKEND-43AA8B?style=flat-square" alt="Building backend systems" />
 
 </div>
 
 <br />
 
-## &nbsp;01 — Profile
+```text
+┌─ ABOUT ──────────────────────────────────────────────────────────┐
+│  Computer Science student interested in the craft of building   │
+│  useful software: scalable services, full-stack products, and   │
+│  AI systems that retrieve evidence and respond with context.    │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-> I’m a Computer Science student interested in the full journey from a good idea to reliable software: product-minded interfaces, capable backends, and AI systems grounded in useful information.
+### `~/now` &nbsp; What I'm exploring
 
-<p align="center">
-  <img src="https://img.shields.io/badge/EXPLORING-Generative_AI-8B7CF6?style=flat-square" alt="Exploring Generative AI" />
-  <img src="https://img.shields.io/badge/BUILDING-LLM_%26_RAG_apps-5B9BD5?style=flat-square" alt="Building LLM and RAG apps" />
-  <img src="https://img.shields.io/badge/PRACTICING-DSA_%26_System_Design-43AA8B?style=flat-square" alt="Practicing DSA and system design" />
-</p>
+`Generative AI` &nbsp; `LLMs` &nbsp; `RAG` &nbsp; `Backend Engineering` &nbsp; `DSA` &nbsp; `System Design` &nbsp; `Distributed Systems`
 
-<br />
+---
 
-## &nbsp;02 — Selected projects
+## `01` &nbsp; Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<sub>01 &nbsp; / &nbsp; DOCUMENT INTELLIGENCE</sub>
+<sub><b>DOCUMENT INTELLIGENCE</b></sub>
 
 ### 🛡️ VERITAS
 
-An evidence-grounded document intelligence platform. Retrieve relevant passages and generate responses tied to the source material.
+An evidence-grounded RAG platform for finding relevant information in documents and generating responses tied to that evidence.
 
-**RAG**　·　**LLMs**　·　**Embeddings**  
-**Vector Search**　·　**FastAPI**
+<code>RAG</code> <code>LLMs</code> <code>Embeddings</code><br />
+<code>Vector Search</code> <code>FastAPI</code>
 
 </td>
 <td width="50%" valign="top">
 
-<sub>02 &nbsp; / &nbsp; INTERNSHIP PROJECT</sub>
+<sub><b>INTERNSHIP PROJECT</b></sub>
 
 ### 📞 NexTech AI Voice
 
-An AI voice calling and CRM platform bringing real-time telephony together with speech recognition, language models, and text-to-speech.
+An AI voice calling and CRM platform combining real-time telephony, speech recognition, language models, and text-to-speech workflows.
 
-**FastAPI**　·　**WebSockets**　·　**Twilio**  
-**STT / TTS**　·　**LLMs**　·　**RAG**
+<code>FastAPI</code> <code>WebSockets</code> <code>Twilio</code><br />
+<code>STT / TTS</code> <code>LLMs</code> <code>RAG</code>
 
 </td>
 </tr>
 </table>
 
-<br />
+## `02` &nbsp; Stack
 
-## &nbsp;03 — Toolkit
+<p><b><samp>LANGUAGES</samp></b><br />
+<img src="https://img.shields.io/badge/Python-202538?style=flat-square&logo=python&logoColor=8BC5FF" alt="Python" />
+<img src="https://img.shields.io/badge/Java-202538?style=flat-square&logo=openjdk&logoColor=F3A712" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-202538?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></p>
 
-<p><b>LANGUAGES</b><br />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></p>
+<p><b><samp>FRONTEND & BACKEND</samp></b><br />
+<img src="https://img.shields.io/badge/React-202538?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-202538?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Node.js-202538?style=flat-square&logo=nodedotjs&logoColor=7BC96F" alt="Node.js" />
+<img src="https://img.shields.io/badge/FastAPI-202538?style=flat-square&logo=fastapi&logoColor=34D399" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Spring_Boot-202538?style=flat-square&logo=springboot&logoColor=86EFAC" alt="Spring Boot" /></p>
 
-<p><b>FRONTEND & BACKEND</b><br />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /></p>
+<p><b><samp>DATA</samp></b><br />
+<img src="https://img.shields.io/badge/MongoDB-202538?style=flat-square&logo=mongodb&logoColor=4ADE80" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-202538?style=flat-square&logo=mysql&logoColor=60A5FA" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-202538?style=flat-square&logo=postgresql&logoColor=93C5FD" alt="PostgreSQL" /></p>
 
-<p><b>DATA</b><br />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
+<p><b><samp>AI / ML</samp></b><br />
+<img src="https://img.shields.io/badge/PyTorch-202538?style=flat-square&logo=pytorch&logoColor=FB923C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Scikit--learn-202538?style=flat-square&logo=scikitlearn&logoColor=FBBF24" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-202538?style=flat-square&logo=xgboost&logoColor=FB923C" alt="XGBoost" />
+<img src="https://img.shields.io/badge/LightGBM-202538?style=flat-square&logo=lightgbm&logoColor=A3E635" alt="LightGBM" />
+<img src="https://img.shields.io/badge/Hugging_Face-202538?style=flat-square&logo=huggingface&logoColor=FDE047" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-202538?style=flat-square&logo=langchain&logoColor=6EE7B7" alt="LangChain" /></p>
 
-<p><b>AI / ML</b><br />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /></p>
+<p><b><samp>TOOLS</samp></b><br />
+<img src="https://img.shields.io/badge/Git-202538?style=flat-square&logo=git&logoColor=FB923C" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-202538?style=flat-square&logo=github&logoColor=E5E7EB" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-202538?style=flat-square&logo=docker&logoColor=60A5FA" alt="Docker" />
+<img src="https://img.shields.io/badge/Postman-202538?style=flat-square&logo=postman&logoColor=FB923C" alt="Postman" /></p>
 
-<p><b>TOOLS</b><br />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /></p>
-
-<br />
-
-## &nbsp;04 — GitHub activity
+## `03` &nbsp; GitHub activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7DD3FC" alt="GitHub statistics" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Most used languages" />
 
-<br />
+<br /><br />
 
-<img width="72%" src="https://streak-stats.demolab.com?user=Vanshika-devi&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FB923C&currStreakLabel=7DD3FC" alt="GitHub contribution streak" />
 
 </div>
 
@@ -110,12 +114,10 @@ An AI voice calling and CRM platform bringing real-time telephony together with 
 
 <div align="center">
 
-<sub>NOW EXPLORING</sub>
+<samp>OPEN TO LEARNING · BUILDING · COLLABORATING</samp>
 
-### Software Engineering　·　DSA　·　Backend　·　System Design　·　Generative AI
+### Find me on [GitHub](https://github.com/Vanshika-devi)
 
-[![Connect on GitHub](https://img.shields.io/badge/CONNECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanshika-devi)
-
-*Build with purpose. Measure what matters. Keep improving.*
+<sub><code>build()</code> &nbsp; <code>measure()</code> &nbsp; <code>improve()</code></sub>
 
 </div>
