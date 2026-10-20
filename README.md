@@ -2,17 +2,19 @@
 
 <h1>Vanshika Devi <sup>👋</sup></h1>
 
-<samp>CS & IT STUDENT&nbsp; / &nbsp;FULL-STACK DEVELOPER&nbsp; / &nbsp;AI·ML</samp>
+<samp>B.TECH CSIT UNDERGRAD&nbsp; / &nbsp;AI·ML&nbsp; / &nbsp;SOFTWARE ENGINEERING</samp><br />
+<sub>she / her</sub>
 
 <br /><br />
 
-<b>Building software with purpose — from reliable backends to grounded AI applications.</b>
+<b>LLMs · RAG · Backend · Distributed Systems</b><br />
+Building software with purpose — from reliable backends to grounded AI applications.
 
 <br />
 
-<a href="https://github.com/Vanshika-devi"><img src="https://img.shields.io/badge/GitHub-View_my_work-171923?style=flat-square&logo=github&logoColor=white" alt="View my GitHub work" /></a>
-&nbsp;<img src="https://img.shields.io/badge/FOCUS-LLMs_%2F_RAG-8B7CF6?style=flat-square" alt="Focus: LLMs and RAG" />
-&nbsp;<img src="https://img.shields.io/badge/BUILDING-BACKEND-43AA8B?style=flat-square" alt="Building backend systems" />
+<a href="https://vanshika-portfolio-me-35b5.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B7CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+&nbsp;<a href="https://www.linkedin.com/in/vanshika-devi-672859338/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;<a href="mailto:pundirvanshika249@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-DB4437?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -20,15 +22,20 @@
 
 ```text
 ┌─ ABOUT ──────────────────────────────────────────────────────────┐
-│  Computer Science student interested in the craft of building   │
-│  useful software: scalable services, full-stack products, and   │
-│  AI systems that retrieve evidence and respond with context.    │
+│  B.Tech CSIT undergrad interested in building useful software:  │
+│  scalable services, full-stack products, and AI systems that    │
+│  retrieve evidence and respond with context.                    │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
 ### `~/now` &nbsp; What I'm exploring
 
 `Generative AI` &nbsp; `LLMs` &nbsp; `RAG` &nbsp; `Backend Engineering` &nbsp; `DSA` &nbsp; `System Design` &nbsp; `Distributed Systems`
+
+### `~/practice` &nbsp; Coding profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-202538?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Vanshika_devi/)
+&nbsp; [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Learn-202538?style=flat-square&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/vanshika-fullstack-aiml)
 
 ---
 
@@ -38,9 +45,9 @@
 <tr>
 <td width="50%" valign="top">
 
-<sub><b>DOCUMENT INTELLIGENCE</b></sub>
+<sub><b>01 / DOCUMENT INTELLIGENCE</b></sub>
 
-### 🛡️ VERITAS
+### 🛡️ [VERITAS](https://github.com/Vanshika-devi/Professional-RAG-PDF-Chatbot)
 
 An evidence-grounded RAG platform for finding relevant information in documents and generating responses tied to that evidence.
 
@@ -50,14 +57,27 @@ An evidence-grounded RAG platform for finding relevant information in documents 
 </td>
 <td width="50%" valign="top">
 
-<sub><b>INTERNSHIP PROJECT</b></sub>
+<sub><b>02 / INTERNSHIP PROJECT</b></sub>
 
-### 📞 NexTech AI Voice
+### 📞 [NexTech AI Voice](https://github.com/Vanshika-devi/ai-calling-project)
 
 An AI voice calling and CRM platform combining real-time telephony, speech recognition, language models, and text-to-speech workflows.
 
 <code>FastAPI</code> <code>WebSockets</code> <code>Twilio</code><br />
 <code>STT / TTS</code> <code>LLMs</code> <code>RAG</code>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<sub><b>03 / DISTRIBUTED SYSTEMS</b></sub>
+
+### ⚙️ [Chronos Distributed Scheduler](https://github.com/Vanshika-devi/chronos-distributed-scheduler)
+
+A production-grade distributed job scheduling and execution platform built with Java and Spring Boot, with concurrency, retries, Redis, Kafka, fault tolerance, and distributed coordination.
+
+<code>Java</code> <code>Spring Boot</code> <code>Redis</code> <code>Kafka</code> <code>Docker</code> <code>Microservices</code>
 
 </td>
 </tr>
@@ -108,6 +128,10 @@ An AI voice calling and CRM platform combining real-time telephony, speech recog
 
 <img width="75%" src="https://streak-stats.demolab.com?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FB923C&currStreakLabel=7DD3FC" alt="GitHub contribution streak" />
 
+<br /><br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-devi&bg_color=0D1117&color=C4B5FD&line=7DD3FC&point=FB923C&area=true&hide_border=true" alt="Contribution activity graph" />
+
 </div>
 
 <br />
@@ -116,7 +140,20 @@ An AI voice calling and CRM platform combining real-time telephony, speech recog
 
 <samp>OPEN TO LEARNING · BUILDING · COLLABORATING</samp>
 
-### Find me on [GitHub](https://github.com/Vanshika-devi)
+<a href="https://github.com/Vanshika-devi">GitHub</a> &nbsp;·&nbsp;
+<a href="https://vanshika-portfolio-me-35b5.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/vanshika-devi-672859338/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://leetcode.com/u/Vanshika_devi/">LeetCode</a> &nbsp;·&nbsp;
+<a href="https://www.freecodecamp.org/vanshika-fullstack-aiml">freeCodeCamp</a> &nbsp;·&nbsp;
+<a href="mailto:pundirvanshika249@gmail.com">Email</a>
+
+<br />
+
+<a href="https://github.com/Vanshika-devi?tab=achievements">GitHub achievements</a>
+
+<br /><br />
+
+<sub>Thanks for stopping by — feel free to explore the projects above.</sub>
 
 <sub><code>build()</code> &nbsp; <code>measure()</code> &nbsp; <code>improve()</code></sub>
 
