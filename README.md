@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h1>Vanshika Devi <sup>👋</sup></h1>
@@ -116,21 +117,51 @@ A production-grade distributed job scheduling and execution platform built with 
 <img src="https://img.shields.io/badge/Docker-202538?style=flat-square&logo=docker&logoColor=60A5FA" alt="Docker" />
 <img src="https://img.shields.io/badge/Postman-202538?style=flat-square&logo=postman&logoColor=FB923C" alt="Postman" /></p>
 
+---
+
 ## `03` &nbsp; GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7DD3FC" alt="GitHub statistics" />
+### Explore my GitHub
+
+<a href="https://github.com/Vanshika-devi">
+  <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Most used languages" />
+<a href="https://github.com/Vanshika-devi?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-202538?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+</a>
+&nbsp;
+<a href="https://github.com/Vanshika-devi?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-View_Stars-202538?style=flat-square&logo=github&logoColor=yellow" alt="GitHub Stars" />
+</a>
 
 <br /><br />
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Vanshika-devi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FB923C&currStreakLabel=7DD3FC" alt="GitHub contribution streak" />
+### Contribution activity
+
+<a href="https://github.com/Vanshika-devi">
+  <img src="https://github.com/Vanshika-devi.png" width="100" height="100" alt="Vanshika's GitHub avatar" />
+</a>
 
 <br /><br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-devi&bg_color=0D1117&color=C4B5FD&line=7DD3FC&point=FB923C&area=true&hide_border=true" alt="Contribution activity graph" />
+<a href="https://github.com/Vanshika-devi?tab=overview">
+  <b>View contribution graph, commits, pull requests, and activity directly on GitHub →</b>
+</a>
+
+<br /><br />
+
+<a href="https://github.com/Vanshika-devi?tab=repositories">
+  <b>Explore all repositories →</b>
+</a>
+
+&nbsp; · &nbsp;
+
+<a href="https://github.com/Vanshika-devi?tab=achievements">
+  <b>GitHub achievements →</b>
+</a>
 
 </div>
 
