@@ -1,191 +1,188 @@
+ <div align="center">
 
-<div align="center">
+# Vanshika Devi 👋
 
-<h1>Vanshika Devi <sup>👋</sup></h1>
+### B.Tech CSIT Undergraduate | AI/ML | Software Engineering
 
-<samp>B.TECH CSIT UNDERGRAD&nbsp; / &nbsp;AI·ML&nbsp; / &nbsp;SOFTWARE ENGINEERING</samp><br />
-<sub>she / her</sub>
+*She / Her*
 
-<br /><br />
+**LLMs · RAG · Backend Engineering · Distributed Systems**
 
-<b>LLMs · RAG · Backend · Distributed Systems</b><br />
-Building software with purpose — from reliable backends to grounded AI applications.
+Building intelligent applications and reliable software systems —  
+from evidence-grounded AI to fault-tolerant distributed infrastructure.
 
-<br />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B7CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://vanshika-portfolio-me-35b5.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanshika-devi-672859338/)
+[![Email](https://img.shields.io/badge/Email-Contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pundirvanshika249@gmail.com)
 
-<a href="https://vanshika-portfolio-me-35b5.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B7CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-&nbsp;<a href="https://www.linkedin.com/in/vanshika-devi-672859338/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;<a href="mailto:pundirvanshika249@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-DB4437?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=Vanshika-devi&style=flat-square&color=8B7CF6&label=PROFILE+VIEWS)
 
 </div>
 
-<br />
-
-```text
-┌─ ABOUT ──────────────────────────────────────────────────────────┐
-│  B.Tech CSIT undergrad interested in building useful software:  │
-│  scalable services, full-stack products, and AI systems that    │
-│  retrieve evidence and respond with context.                    │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### `~/now` &nbsp; What I'm exploring
-
-`Generative AI` &nbsp; `LLMs` &nbsp; `RAG` &nbsp; `Backend Engineering` &nbsp; `DSA` &nbsp; `System Design` &nbsp; `Distributed Systems`
-
-### `~/practice` &nbsp; Coding profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-202538?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Vanshika_devi/)
-&nbsp; [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Learn-202538?style=flat-square&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/vanshika-fullstack-aiml)
-
 ---
 
-## `01` &nbsp; Projects
+## `$ whoami`
+
+```python
+class VanshikaDevi:
+
+    education = "B.Tech CSIT"
+    interests = [
+        "Artificial Intelligence",
+        "Large Language Models",
+        "Retrieval-Augmented Generation",
+        "Backend Engineering",
+        "Distributed Systems",
+        "Software Architecture"
+    ]
+
+    currently_learning = [
+        "Advanced Java & Spring Boot",
+        "System Design",
+        "Distributed Computing",
+        "LLM Engineering"
+    ]
+
+    philosophy = "Build. Measure. Improve."
+```
+
+## `$ ls ./featured-projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<sub><b>01 / DOCUMENT INTELLIGENCE</b></sub>
+### 🛡️ VERITAS
 
-### 🛡️ [VERITAS](https://github.com/Vanshika-devi/Professional-RAG-PDF-Chatbot)
+**Evidence-Grounded Document Intelligence**
 
-An evidence-grounded RAG platform for finding relevant information in documents and generating responses tied to that evidence.
+A document intelligence platform that combines RAG, semantic retrieval and LLMs to generate evidence-backed responses.
 
-<code>RAG</code> <code>LLMs</code> <code>Embeddings</code><br />
-<code>Vector Search</code> <code>FastAPI</code>
+`Python` `FastAPI` `RAG` `Embeddings` `Vector Search`
+
+[Repository ↗](https://github.com/Vanshika-devi/Professional-RAG-PDF-Chatbot)
 
 </td>
 <td width="50%" valign="top">
 
-<sub><b>02 / INTERNSHIP PROJECT</b></sub>
+### 📞 NexTech AI Voice
 
-### 📞 [NexTech AI Voice](https://github.com/Vanshika-devi/ai-calling-project)
+**AI Voice Calling & CRM Platform**
 
-An AI voice calling and CRM platform combining real-time telephony, speech recognition, language models, and text-to-speech workflows.
+An AI-powered calling platform integrating real-time telephony, speech recognition, conversational AI and CRM workflows.
 
-<code>FastAPI</code> <code>WebSockets</code> <code>Twilio</code><br />
-<code>STT / TTS</code> <code>LLMs</code> <code>RAG</code>
+`FastAPI` `Twilio` `WebSockets` `STT/TTS` `LLMs`
+
+[Repository ↗](https://github.com/Vanshika-devi/ai-calling-project)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-<sub><b>03 / DISTRIBUTED SYSTEMS</b></sub>
+### ⚙️ Chronos
 
-### ⚙️ [Chronos Distributed Scheduler](https://github.com/Vanshika-devi/chronos-distributed-scheduler)
+**Distributed Job Scheduling & Execution Platform**
 
-A production-grade distributed job scheduling and execution platform built with Java and Spring Boot, with concurrency, retries, Redis, Kafka, fault tolerance, and distributed coordination.
+A Java and Spring Boot-based distributed scheduler designed around concurrent job execution, retries, failure recovery, distributed coordination and reliable background processing.
 
-<code>Java</code> <code>Spring Boot</code> <code>Redis</code> <code>Kafka</code> <code>Docker</code> <code>Microservices</code>
+`Java` `Spring Boot` `Redis` `Kafka` `Docker` `Distributed Systems`
+
+[Repository ↗](https://github.com/Vanshika-devi/chronos-distributed-scheduler)
 
 </td>
 </tr>
 </table>
 
-## `02` &nbsp; Stack
+## `$ tech-stack`
 
-<p><b><samp>LANGUAGES</samp></b><br />
-<img src="https://img.shields.io/badge/Python-202538?style=flat-square&logo=python&logoColor=8BC5FF" alt="Python" />
-<img src="https://img.shields.io/badge/Java-202538?style=flat-square&logo=openjdk&logoColor=F3A712" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-202538?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></p>
+**Languages**
 
-<p><b><samp>FRONTEND & BACKEND</samp></b><br />
-<img src="https://img.shields.io/badge/React-202538?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-202538?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Node.js-202538?style=flat-square&logo=nodedotjs&logoColor=7BC96F" alt="Node.js" />
-<img src="https://img.shields.io/badge/FastAPI-202538?style=flat-square&logo=fastapi&logoColor=34D399" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Spring_Boot-202538?style=flat-square&logo=springboot&logoColor=86EFAC" alt="Spring Boot" /></p>
+![Python](https://img.shields.io/badge/Python-202538?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-202538?style=flat-square&logo=openjdk&logoColor=F89820)
+![JavaScript](https://img.shields.io/badge/JavaScript-202538?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-<p><b><samp>DATA</samp></b><br />
-<img src="https://img.shields.io/badge/MongoDB-202538?style=flat-square&logo=mongodb&logoColor=4ADE80" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-202538?style=flat-square&logo=mysql&logoColor=60A5FA" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-202538?style=flat-square&logo=postgresql&logoColor=93C5FD" alt="PostgreSQL" /></p>
+**Frontend & Backend**
 
-<p><b><samp>AI / ML</samp></b><br />
-<img src="https://img.shields.io/badge/PyTorch-202538?style=flat-square&logo=pytorch&logoColor=FB923C" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Scikit--learn-202538?style=flat-square&logo=scikitlearn&logoColor=FBBF24" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/XGBoost-202538?style=flat-square&logo=xgboost&logoColor=FB923C" alt="XGBoost" />
-<img src="https://img.shields.io/badge/LightGBM-202538?style=flat-square&logo=lightgbm&logoColor=A3E635" alt="LightGBM" />
-<img src="https://img.shields.io/badge/Hugging_Face-202538?style=flat-square&logo=huggingface&logoColor=FDE047" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-202538?style=flat-square&logo=langchain&logoColor=6EE7B7" alt="LangChain" /></p>
+![React](https://img.shields.io/badge/React-202538?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-202538?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Node](https://img.shields.io/badge/Node.js-202538?style=flat-square&logo=nodedotjs&logoColor=7BC96F)
+![FastAPI](https://img.shields.io/badge/FastAPI-202538?style=flat-square&logo=fastapi&logoColor=34D399)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-202538?style=flat-square&logo=springboot&logoColor=6DB33F)
 
-<p><b><samp>TOOLS</samp></b><br />
-<img src="https://img.shields.io/badge/Git-202538?style=flat-square&logo=git&logoColor=FB923C" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-202538?style=flat-square&logo=github&logoColor=E5E7EB" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-202538?style=flat-square&logo=docker&logoColor=60A5FA" alt="Docker" />
-<img src="https://img.shields.io/badge/Postman-202538?style=flat-square&logo=postman&logoColor=FB923C" alt="Postman" /></p>
+**AI / Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-202538?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-202538?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-202538?style=flat-square&logo=xgboost&logoColor=EC6B23)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-202538?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-202538?style=flat-square&logo=langchain&logoColor=1C3C3C)
+
+**Databases & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202538?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-202538?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-202538?style=flat-square&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-202538?style=flat-square&logo=redis&logoColor=FF4438)
+![Docker](https://img.shields.io/badge/Docker-202538?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-202538?style=flat-square&logo=git&logoColor=F05032)
 
 ---
 
-## `03` &nbsp; GitHub activity
+## `$ github-stats`
 
 <div align="center">
 
-### Explore my GitHub
+### 📊 GitHub Overview
 
-<a href="https://github.com/Vanshika-devi">
-  <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
-</a>
-&nbsp;
-<a href="https://github.com/Vanshika-devi?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-202538?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
-</a>
-&nbsp;
-<a href="https://github.com/Vanshika-devi?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-View_Stars-202538?style=flat-square&logo=github&logoColor=yellow" alt="GitHub Stars" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vanshika-devi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
 
-<br /><br />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-devi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
-### Contribution activity
+### 🔥 Contribution Streak
 
-<a href="https://github.com/Vanshika-devi">
-  <img src="https://github.com/Vanshika-devi.png" width="100" height="100" alt="Vanshika's GitHub avatar" />
-</a>
+<img src="https://streak-stats.demolab.com?user=Vanshika-devi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<br /><br />
+### 📈 Contribution Activity
 
-<a href="https://github.com/Vanshika-devi?tab=overview">
-  <b>View contribution graph, commits, pull requests, and activity directly on GitHub →</b>
-</a>
-
-<br /><br />
-
-<a href="https://github.com/Vanshika-devi?tab=repositories">
-  <b>Explore all repositories →</b>
-</a>
-
-&nbsp; · &nbsp;
-
-<a href="https://github.com/Vanshika-devi?tab=achievements">
-  <b>GitHub achievements →</b>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-devi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
-<br />
+---
+
+## `$ coding-profiles`
 
 <div align="center">
 
-<samp>OPEN TO LEARNING · BUILDING · COLLABORATING</samp>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Problems-202538?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Vanshika_devi/)
 
-<a href="https://github.com/Vanshika-devi">GitHub</a> &nbsp;·&nbsp;
-<a href="https://vanshika-portfolio-me-35b5.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/vanshika-devi-672859338/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://leetcode.com/u/Vanshika_devi/">LeetCode</a> &nbsp;·&nbsp;
-<a href="https://www.freecodecamp.org/vanshika-fullstack-aiml">freeCodeCamp</a> &nbsp;·&nbsp;
-<a href="mailto:pundirvanshika249@gmail.com">Email</a>
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Learning-202538?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/vanshika-fullstack-aiml)
 
-<br />
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Repositories-202538?style=for-the-badge&logo=github)](https://github.com/Vanshika-devi?tab=repositories)
 
-<a href="https://github.com/Vanshika-devi?tab=achievements">GitHub achievements</a>
+</div>
 
-<br /><br />
+## `$ beyond-code`
 
-<sub>Thanks for stopping by — feel free to explore the projects above.</sub>
+- Exploring research-oriented AI/ML engineering.
+- Strengthening problem-solving and DSA.
+- Studying distributed systems and software architecture.
+- Preparing for GATE CS.
+- Contributing to open-source communities.
 
-<sub><code>build()</code> &nbsp; <code>measure()</code> &nbsp; <code>improve()</code></sub>
+---
+
+<div align="center">
+
+### Let's build something meaningful.
+
+**OPEN TO LEARNING · BUILDING · COLLABORATING**
+
+[GitHub](https://github.com/Vanshika-devi) · [Portfolio](https://vanshika-portfolio-me-35b5.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vanshika-devi-672859338/) · [LeetCode](https://leetcode.com/u/Vanshika_devi/) · [Email](mailto:pundirvanshika249@gmail.com)
+
+*Thanks for visiting. Keep building, keep experimenting.*
+
+`build()` · `measure()` · `improve()`
 
 </div>
